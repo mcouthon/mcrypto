@@ -2,6 +2,7 @@
 from __future__ import unicode_literals
 
 from django.db import models
+from django.urls import reverse
 from django.utils.encoding import python_2_unicode_compatible
 
 
@@ -10,6 +11,9 @@ class Currency(models.Model):
     code = models.CharField(max_length=5, unique=True)
     name = models.CharField(max_length=40)
     crypto = models.BooleanField(default=True)
+
+    def get_absolute_url(self):
+        return reverse('portfolio:currency', kwargs={'pk': self.pk})
 
     def __str__(self):
         crypto = ' [crypto]' if self.crypto else ''
@@ -24,6 +28,9 @@ class ExchangeRate(models.Model):
                                on_delete=models.CASCADE)
     rate = models.FloatField(default=0.0)
 
+    def get_absolute_url(self):
+        return reverse('portfolio:exchange', kwargs={'pk': self.pk})
+
     def __str__(self):
         return '{0} --> {1} [{2}]'.format(self.base, self.target, self.rate)
 
@@ -32,6 +39,9 @@ class ExchangeRate(models.Model):
 class Asset(models.Model):
     code = models.CharField(max_length=20, unique=True)
     name = models.CharField(max_length=200)
+
+    def get_absolute_url(self):
+        return reverse('portfolio:asset', kwargs={'pk': self.pk})
 
     def __str__(self):
         return self.name
@@ -42,6 +52,9 @@ class Amount(models.Model):
     coin = models.ForeignKey(Currency, on_delete=models.CASCADE)
     amount = models.FloatField(default=0.0)
 
+    def get_absolute_url(self):
+        return reverse('portfolio:amount', kwargs={'pk': self.pk})
+
     def __str__(self):
         return '{0} {1}'.format(self.amount, self.coin.code)
 
@@ -50,6 +63,9 @@ class Amount(models.Model):
 class Holding(models.Model):
     asset = models.ForeignKey(Asset, on_delete=models.CASCADE)
     amount = models.ForeignKey(Amount, on_delete=models.CASCADE)
+
+    def get_absolute_url(self):
+        return reverse('portfolio:holding', kwargs={'pk': self.pk})
 
     def __str__(self):
         return '{0} [{1}]'.format(self.amount, self.asset)
