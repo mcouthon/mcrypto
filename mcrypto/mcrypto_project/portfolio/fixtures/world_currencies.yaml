@@ -1,0 +1,489 @@
+- model: portfolio.currency
+  pk: 1
+  fields: {code: DZD, name: Algeria Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 2
+  fields: {code: NAD, name: Namibia Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 3
+  fields: {code: GHS, name: Ghana Cedi, crypto: false}
+- model: portfolio.currency
+  pk: 4
+  fields: {code: EGP, name: Egypt Pound, crypto: false}
+- model: portfolio.currency
+  pk: 5
+  fields: {code: BGN, name: Bulgaria Lev, crypto: false}
+- model: portfolio.currency
+  pk: 6
+  fields: {code: PAB, name: Panama Balboa, crypto: false}
+- model: portfolio.currency
+  pk: 7
+  fields: {code: BOB, name: "Bolivia Bol\xEDviano", crypto: false}
+- model: portfolio.currency
+  pk: 8
+  fields: {code: DKK, name: Denmark Krone, crypto: false}
+- model: portfolio.currency
+  pk: 9
+  fields: {code: BWP, name: Botswana Pula, crypto: false}
+- model: portfolio.currency
+  pk: 10
+  fields: {code: LBP, name: Lebanon Pound, crypto: false}
+- model: portfolio.currency
+  pk: 11
+  fields: {code: TZS, name: Tanzania Shilling, crypto: false}
+- model: portfolio.currency
+  pk: 12
+  fields: {code: VND, name: Viet Nam Dong, crypto: false}
+- model: portfolio.currency
+  pk: 13
+  fields: {code: AOA, name: Angola Kwanza, crypto: false}
+- model: portfolio.currency
+  pk: 14
+  fields: {code: KHR, name: Cambodia Riel, crypto: false}
+- model: portfolio.currency
+  pk: 15
+  fields: {code: MYR, name: Malaysia Ringgit, crypto: false}
+- model: portfolio.currency
+  pk: 16
+  fields: {code: KYD, name: Cayman Islands Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 17
+  fields: {code: LYD, name: Libya Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 18
+  fields: {code: UAH, name: Ukraine Hryvnia, crypto: false}
+- model: portfolio.currency
+  pk: 19
+  fields: {code: JOD, name: Jordan Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 20
+  fields: {code: AZN, name: Azerbaijan New Manat, crypto: false}
+- model: portfolio.currency
+  pk: 21
+  fields: {code: AWG, name: Aruba Guilder, crypto: false}
+- model: portfolio.currency
+  pk: 22
+  fields: {code: SAR, name: Saudi Arabia Riyal, crypto: false}
+- model: portfolio.currency
+  pk: 23
+  fields: {code: HKD, name: Hong Kong Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 24
+  fields: {code: CHF, name: Switzerland Franc, crypto: false}
+- model: portfolio.currency
+  pk: 25
+  fields: {code: GIP, name: Gibraltar Pound, crypto: false}
+- model: portfolio.currency
+  pk: 26
+  fields: {code: XPF, name: "Comptoirs Fran\xE7ais du Pacifique (CFP) Franc", crypto: false}
+- model: portfolio.currency
+  pk: 27
+  fields: {code: BYN, name: Belarus Ruble, crypto: false}
+- model: portfolio.currency
+  pk: 28
+  fields: {code: MRO, name: Mauritania Ouguiya, crypto: false}
+- model: portfolio.currency
+  pk: 29
+  fields: {code: HRK, name: Croatia Kuna, crypto: false}
+- model: portfolio.currency
+  pk: 30
+  fields: {code: DJF, name: Djibouti Franc, crypto: false}
+- model: portfolio.currency
+  pk: 31
+  fields: {code: THB, name: Thailand Baht, crypto: false}
+- model: portfolio.currency
+  pk: 32
+  fields: {code: XAF, name: "Communaut\xE9 Financi\xE8re Africaine (BEAC) CFA Franc\
+      \ BEAC", crypto: false}
+- model: portfolio.currency
+  pk: 33
+  fields: {code: BND, name: Brunei Darussalam Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 34
+  fields: {code: ETB, name: Ethiopia Birr, crypto: false}
+- model: portfolio.currency
+  pk: 35
+  fields: {code: UYU, name: Uruguay Peso, crypto: false}
+- model: portfolio.currency
+  pk: 36
+  fields: {code: NIO, name: Nicaragua Cordoba, crypto: false}
+- model: portfolio.currency
+  pk: 37
+  fields: {code: LAK, name: Laos Kip, crypto: false}
+- model: portfolio.currency
+  pk: 38
+  fields: {code: SYP, name: Syria Pound, crypto: false}
+- model: portfolio.currency
+  pk: 39
+  fields: {code: MAD, name: Morocco Dirham, crypto: false}
+- model: portfolio.currency
+  pk: 40
+  fields: {code: MZN, name: Mozambique Metical, crypto: false}
+- model: portfolio.currency
+  pk: 41
+  fields: {code: PHP, name: Philippines Peso, crypto: false}
+- model: portfolio.currency
+  pk: 42
+  fields: {code: ZAR, name: South Africa Rand, crypto: false}
+- model: portfolio.currency
+  pk: 43
+  fields: {code: NPR, name: Nepal Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 44
+  fields: {code: NGN, name: Nigeria Naira, crypto: false}
+- model: portfolio.currency
+  pk: 45
+  fields: {code: ZWD, name: Zimbabwe Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 46
+  fields: {code: CRC, name: Costa Rica Colon, crypto: false}
+- model: portfolio.currency
+  pk: 47
+  fields: {code: AED, name: United Arab Emirates Dirham, crypto: false}
+- model: portfolio.currency
+  pk: 48
+  fields: {code: GBP, name: United Kingdom Pound, crypto: false}
+- model: portfolio.currency
+  pk: 49
+  fields: {code: MWK, name: Malawi Kwacha, crypto: false}
+- model: portfolio.currency
+  pk: 50
+  fields: {code: TTD, name: Trinidad and Tobago Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 51
+  fields: {code: LKR, name: Sri Lanka Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 52
+  fields: {code: PKR, name: Pakistan Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 53
+  fields: {code: HUF, name: Hungary Forint, crypto: false}
+- model: portfolio.currency
+  pk: 54
+  fields: {code: SZL, name: Swaziland Lilangeni, crypto: false}
+- model: portfolio.currency
+  pk: 55
+  fields: {code: LSL, name: Lesotho Loti, crypto: false}
+- model: portfolio.currency
+  pk: 56
+  fields: {code: MNT, name: Mongolia Tughrik, crypto: false}
+- model: portfolio.currency
+  pk: 57
+  fields: {code: AMD, name: Armenia Dram, crypto: false}
+- model: portfolio.currency
+  pk: 58
+  fields: {code: UGX, name: Uganda Shilling, crypto: false}
+- model: portfolio.currency
+  pk: 59
+  fields: {code: XDR, name: International Monetary Fund (IMF) Special Drawing Rights,
+    crypto: false}
+- model: portfolio.currency
+  pk: 60
+  fields: {code: JMD, name: Jamaica Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 61
+  fields: {code: GEL, name: Georgia Lari, crypto: false}
+- model: portfolio.currency
+  pk: 62
+  fields: {code: SHP, name: Saint Helena Pound, crypto: false}
+- model: portfolio.currency
+  pk: 63
+  fields: {code: AFN, name: Afghanistan Afghani, crypto: false}
+- model: portfolio.currency
+  pk: 64
+  fields: {code: MMK, name: Myanmar (Burma) Kyat, crypto: false}
+- model: portfolio.currency
+  pk: 65
+  fields: {code: KPW, name: Korea (North) Won, crypto: false}
+- model: portfolio.currency
+  pk: 66
+  fields: {code: TRY, name: Turkey Lira, crypto: false}
+- model: portfolio.currency
+  pk: 67
+  fields: {code: BDT, name: Bangladesh Taka, crypto: false}
+- model: portfolio.currency
+  pk: 68
+  fields: {code: CNY, name: China Yuan Renminbi, crypto: false}
+- model: portfolio.currency
+  pk: 69
+  fields: {code: HTG, name: Haiti Gourde, crypto: false}
+- model: portfolio.currency
+  pk: 70
+  fields: {code: SLL, name: Sierra Leone Leone, crypto: false}
+- model: portfolio.currency
+  pk: 71
+  fields: {code: MGA, name: Madagascar Ariary, crypto: false}
+- model: portfolio.currency
+  pk: 72
+  fields: {code: YER, name: Yemen Rial, crypto: false}
+- model: portfolio.currency
+  pk: 73
+  fields: {code: LRD, name: Liberia Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 74
+  fields: {code: RWF, name: Rwanda Franc, crypto: false}
+- model: portfolio.currency
+  pk: 75
+  fields: {code: NOK, name: Norway Krone, crypto: false}
+- model: portfolio.currency
+  pk: 76
+  fields: {code: MOP, name: Macau Pataca, crypto: false}
+- model: portfolio.currency
+  pk: 77
+  fields: {code: INR, name: India Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 78
+  fields: {code: MXN, name: Mexico Peso, crypto: false}
+- model: portfolio.currency
+  pk: 79
+  fields: {code: CZK, name: Czech Republic Koruna, crypto: false}
+- model: portfolio.currency
+  pk: 80
+  fields: {code: TJS, name: Tajikistan Somoni, crypto: false}
+- model: portfolio.currency
+  pk: 81
+  fields: {code: BTN, name: Bhutan Ngultrum, crypto: false}
+- model: portfolio.currency
+  pk: 82
+  fields: {code: COP, name: Colombia Peso, crypto: false}
+- model: portfolio.currency
+  pk: 83
+  fields: {code: TMT, name: Turkmenistan Manat, crypto: false}
+- model: portfolio.currency
+  pk: 84
+  fields: {code: MUR, name: Mauritius Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 85
+  fields: {code: IDR, name: Indonesia Rupiah, crypto: false}
+- model: portfolio.currency
+  pk: 86
+  fields: {code: HNL, name: Honduras Lempira, crypto: false}
+- model: portfolio.currency
+  pk: 87
+  fields: {code: FJD, name: Fiji Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 88
+  fields: {code: ISK, name: Iceland Krona, crypto: false}
+- model: portfolio.currency
+  pk: 89
+  fields: {code: PEN, name: Peru Sol, crypto: false}
+- model: portfolio.currency
+  pk: 90
+  fields: {code: BZD, name: Belize Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 91
+  fields: {code: ILS, name: Israel Shekel, crypto: false}
+- model: portfolio.currency
+  pk: 92
+  fields: {code: DOP, name: Dominican Republic Peso, crypto: false}
+- model: portfolio.currency
+  pk: 93
+  fields: {code: GTQ, name: Guatemala Quetzal, crypto: false}
+- model: portfolio.currency
+  pk: 94
+  fields: {code: GGP, name: Guernsey Pound, crypto: false}
+- model: portfolio.currency
+  pk: 95
+  fields: {code: MDL, name: Moldova Leu, crypto: false}
+- model: portfolio.currency
+  pk: 96
+  fields: {code: QAR, name: Qatar Riyal, crypto: false}
+- model: portfolio.currency
+  pk: 97
+  fields: {code: SPL, name: Seborga Luigino, crypto: false}
+- model: portfolio.currency
+  pk: 98
+  fields: {code: SEK, name: Sweden Krona, crypto: false}
+- model: portfolio.currency
+  pk: 99
+  fields: {code: JEP, name: Jersey Pound, crypto: false}
+- model: portfolio.currency
+  pk: 100
+  fields: {code: AUD, name: Australia Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 101
+  fields: {code: SRD, name: Suriname Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 102
+  fields: {code: CUP, name: Cuba Peso, crypto: false}
+- model: portfolio.currency
+  pk: 103
+  fields: {code: BBD, name: Barbados Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 104
+  fields: {code: KMF, name: Comoros Franc, crypto: false}
+- model: portfolio.currency
+  pk: 105
+  fields: {code: KRW, name: Korea (South) Won, crypto: false}
+- model: portfolio.currency
+  pk: 106
+  fields: {code: GMD, name: Gambia Dalasi, crypto: false}
+- model: portfolio.currency
+  pk: 107
+  fields: {code: VEF, name: Venezuela Bolivar, crypto: false}
+- model: portfolio.currency
+  pk: 108
+  fields: {code: BSD, name: Bahamas Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 109
+  fields: {code: ANG, name: Netherlands Antilles Guilder, crypto: false}
+- model: portfolio.currency
+  pk: 110
+  fields: {code: CUC, name: Cuba Convertible Peso, crypto: false}
+- model: portfolio.currency
+  pk: 111
+  fields: {code: TVD, name: Tuvalu Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 112
+  fields: {code: CLP, name: Chile Peso, crypto: false}
+- model: portfolio.currency
+  pk: 113
+  fields: {code: ZMW, name: Zambia Kwacha, crypto: false}
+- model: portfolio.currency
+  pk: 114
+  fields: {code: EUR, name: Euro Member Countries, crypto: false}
+- model: portfolio.currency
+  pk: 115
+  fields: {code: ALL, name: Albania Lek, crypto: false}
+- model: portfolio.currency
+  pk: 116
+  fields: {code: XCD, name: East Caribbean Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 117
+  fields: {code: KZT, name: Kazakhstan Tenge, crypto: false}
+- model: portfolio.currency
+  pk: 118
+  fields: {code: RUB, name: Russia Ruble, crypto: false}
+- model: portfolio.currency
+  pk: 119
+  fields: {code: CDF, name: Congo/Kinshasa Franc, crypto: false}
+- model: portfolio.currency
+  pk: 120
+  fields: {code: RON, name: Romania New Leu, crypto: false}
+- model: portfolio.currency
+  pk: 121
+  fields: {code: OMR, name: Oman Rial, crypto: false}
+- model: portfolio.currency
+  pk: 122
+  fields: {code: BRL, name: Brazil Real, crypto: false}
+- model: portfolio.currency
+  pk: 123
+  fields: {code: SBD, name: Solomon Islands Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 124
+  fields: {code: PLN, name: Poland Zloty, crypto: false}
+- model: portfolio.currency
+  pk: 125
+  fields: {code: PYG, name: Paraguay Guarani, crypto: false}
+- model: portfolio.currency
+  pk: 126
+  fields: {code: KES, name: Kenya Shilling, crypto: false}
+- model: portfolio.currency
+  pk: 127
+  fields: {code: MKD, name: Macedonia Denar, crypto: false}
+- model: portfolio.currency
+  pk: 128
+  fields: {code: TWD, name: Taiwan New Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 129
+  fields: {code: TOP, name: Tonga Pa'anga, crypto: false}
+- model: portfolio.currency
+  pk: 130
+  fields: {code: MVR, name: Maldives (Maldive Islands) Rufiyaa, crypto: false}
+- model: portfolio.currency
+  pk: 131
+  fields: {code: VUV, name: Vanuatu Vatu, crypto: false}
+- model: portfolio.currency
+  pk: 132
+  fields: {code: GNF, name: Guinea Franc, crypto: false}
+- model: portfolio.currency
+  pk: 133
+  fields: {code: WST, name: Samoa Tala, crypto: false}
+- model: portfolio.currency
+  pk: 134
+  fields: {code: IQD, name: Iraq Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 135
+  fields: {code: ERN, name: Eritrea Nakfa, crypto: false}
+- model: portfolio.currency
+  pk: 136
+  fields: {code: BAM, name: Bosnia and Herzegovina Convertible Marka, crypto: false}
+- model: portfolio.currency
+  pk: 137
+  fields: {code: SCR, name: Seychelles Rupee, crypto: false}
+- model: portfolio.currency
+  pk: 138
+  fields: {code: CAD, name: Canada Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 139
+  fields: {code: CVE, name: Cape Verde Escudo, crypto: false}
+- model: portfolio.currency
+  pk: 140
+  fields: {code: KWD, name: Kuwait Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 141
+  fields: {code: BIF, name: Burundi Franc, crypto: false}
+- model: portfolio.currency
+  pk: 142
+  fields: {code: PGK, name: Papua New Guinea Kina, crypto: false}
+- model: portfolio.currency
+  pk: 143
+  fields: {code: SOS, name: Somalia Shilling, crypto: false}
+- model: portfolio.currency
+  pk: 144
+  fields: {code: SGD, name: Singapore Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 145
+  fields: {code: UZS, name: Uzbekistan Som, crypto: false}
+- model: portfolio.currency
+  pk: 146
+  fields: {code: STD, name: "S\xE3o Tom\xE9 and Pr\xEDncipe Dobra", crypto: false}
+- model: portfolio.currency
+  pk: 147
+  fields: {code: IRR, name: Iran Rial, crypto: false}
+- model: portfolio.currency
+  pk: 148
+  fields: {code: SVC, name: El Salvador Colon, crypto: false}
+- model: portfolio.currency
+  pk: 149
+  fields: {code: XOF, name: "Communaut\xE9 Financi\xE8re Africaine (BCEAO) Franc",
+    crypto: false}
+- model: portfolio.currency
+  pk: 150
+  fields: {code: TND, name: Tunisia Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 151
+  fields: {code: GYD, name: Guyana Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 152
+  fields: {code: NZD, name: New Zealand Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 153
+  fields: {code: FKP, name: Falkland Islands (Malvinas) Pound, crypto: false}
+- model: portfolio.currency
+  pk: 154
+  fields: {code: USD, name: United States Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 155
+  fields: {code: KGS, name: Kyrgyzstan Som, crypto: false}
+- model: portfolio.currency
+  pk: 156
+  fields: {code: ARS, name: Argentina Peso, crypto: false}
+- model: portfolio.currency
+  pk: 157
+  fields: {code: BMD, name: Bermuda Dollar, crypto: false}
+- model: portfolio.currency
+  pk: 158
+  fields: {code: IMP, name: Isle of Man Pound, crypto: false}
+- model: portfolio.currency
+  pk: 159
+  fields: {code: RSD, name: Serbia Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 160
+  fields: {code: BHD, name: Bahrain Dinar, crypto: false}
+- model: portfolio.currency
+  pk: 161
+  fields: {code: JPY, name: Japan Yen, crypto: false}
+- model: portfolio.currency
+  pk: 162
+  fields: {code: SDG, name: Sudan Pound, crypto: false}

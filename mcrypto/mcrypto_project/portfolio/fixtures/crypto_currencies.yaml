@@ -1,0 +1,2979 @@
+- model: portfolio.currency
+  pk: 163
+  fields: {code: EOC, name: EOC, crypto: true}
+- model: portfolio.currency
+  pk: 164
+  fields: {code: RATIO, name: RATIO, crypto: true}
+- model: portfolio.currency
+  pk: 165
+  fields: {code: LTCR, name: Litecred, crypto: true}
+- model: portfolio.currency
+  pk: 166
+  fields: {code: LANA, name: LANA, crypto: true}
+- model: portfolio.currency
+  pk: 167
+  fields: {code: CPC, name: Capricoin, crypto: true}
+- model: portfolio.currency
+  pk: 168
+  fields: {code: XBP, name: XBP, crypto: true}
+- model: portfolio.currency
+  pk: 169
+  fields: {code: XBS, name: XBS, crypto: true}
+- model: portfolio.currency
+  pk: 170
+  fields: {code: SIC, name: SIC, crypto: true}
+- model: portfolio.currency
+  pk: 171
+  fields: {code: SIB, name: Siberian chervonets, crypto: true}
+- model: portfolio.currency
+  pk: 172
+  fields: {code: FONZ, name: FONZ, crypto: true}
+- model: portfolio.currency
+  pk: 173
+  fields: {code: JWL, name: JWL, crypto: true}
+- model: portfolio.currency
+  pk: 174
+  fields: {code: GAIN, name: GAIN, crypto: true}
+- model: portfolio.currency
+  pk: 175
+  fields: {code: EQUAL, name: EQUAL, crypto: true}
+- model: portfolio.currency
+  pk: 176
+  fields: {code: KRC, name: KRC, crypto: true}
+- model: portfolio.currency
+  pk: 177
+  fields: {code: ACES, name: ACES, crypto: true}
+- model: portfolio.currency
+  pk: 178
+  fields: {code: XBY, name: XBY, crypto: true}
+- model: portfolio.currency
+  pk: 179
+  fields: {code: XBG, name: XBG, crypto: true}
+- model: portfolio.currency
+  pk: 180
+  fields: {code: SCB, name: SCB, crypto: true}
+- model: portfolio.currency
+  pk: 181
+  fields: {code: XBC, name: Bitcoin Plus, crypto: true}
+- model: portfolio.currency
+  pk: 182
+  fields: {code: XBB, name: XBB, crypto: true}
+- model: portfolio.currency
+  pk: 183
+  fields: {code: SPX, name: SPX, crypto: true}
+- model: portfolio.currency
+  pk: 184
+  fields: {code: DRKT, name: DRKT, crypto: true}
+- model: portfolio.currency
+  pk: 185
+  fields: {code: TAP, name: TAP, crypto: true}
+- model: portfolio.currency
+  pk: 186
+  fields: {code: POWER, name: POWER, crypto: true}
+- model: portfolio.currency
+  pk: 187
+  fields: {code: MONA, name: MonaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 188
+  fields: {code: OPAL, name: OPAL, crypto: true}
+- model: portfolio.currency
+  pk: 189
+  fields: {code: ARPA, name: ARPA, crypto: true}
+- model: portfolio.currency
+  pk: 190
+  fields: {code: TAG, name: TagCoin, crypto: true}
+- model: portfolio.currency
+  pk: 191
+  fields: {code: CRIME, name: CRIME, crypto: true}
+- model: portfolio.currency
+  pk: 192
+  fields: {code: SPM, name: SPM, crypto: true}
+- model: portfolio.currency
+  pk: 193
+  fields: {code: TAB, name: TAB, crypto: true}
+- model: portfolio.currency
+  pk: 194
+  fields: {code: TAM, name: TAM, crypto: true}
+- model: portfolio.currency
+  pk: 195
+  fields: {code: SPC, name: SPC, crypto: true}
+- model: portfolio.currency
+  pk: 196
+  fields: {code: UAE, name: UAE, crypto: true}
+- model: portfolio.currency
+  pk: 197
+  fields: {code: HEEL, name: HEEL, crypto: true}
+- model: portfolio.currency
+  pk: 198
+  fields: {code: HILL, name: HILL, crypto: true}
+- model: portfolio.currency
+  pk: 199
+  fields: {code: FCASH, name: FCASH, crypto: true}
+- model: portfolio.currency
+  pk: 200
+  fields: {code: GT, name: GT, crypto: true}
+- model: portfolio.currency
+  pk: 201
+  fields: {code: XPO, name: XPO, crypto: true}
+- model: portfolio.currency
+  pk: 202
+  fields: {code: FIT, name: FIT, crypto: true}
+- model: portfolio.currency
+  pk: 203
+  fields: {code: GP, name: GP, crypto: true}
+- model: portfolio.currency
+  pk: 204
+  fields: {code: BTCS, name: BTCS, crypto: true}
+- model: portfolio.currency
+  pk: 205
+  fields: {code: BTCR, name: BTCR, crypto: true}
+- model: portfolio.currency
+  pk: 206
+  fields: {code: CORAL, name: CORAL, crypto: true}
+- model: portfolio.currency
+  pk: 207
+  fields: {code: GIZ, name: GIZ, crypto: true}
+- model: portfolio.currency
+  pk: 208
+  fields: {code: BTCU, name: BTCU, crypto: true}
+- model: portfolio.currency
+  pk: 209
+  fields: {code: XPD, name: XPD, crypto: true}
+- model: portfolio.currency
+  pk: 210
+  fields: {code: GIG, name: GIG, crypto: true}
+- model: portfolio.currency
+  pk: 211
+  fields: {code: HZT, name: HZT, crypto: true}
+- model: portfolio.currency
+  pk: 212
+  fields: {code: PCSH, name: PCSH, crypto: true}
+- model: portfolio.currency
+  pk: 213
+  fields: {code: BTCO, name: BTCO, crypto: true}
+- model: portfolio.currency
+  pk: 214
+  fields: {code: GB, name: GB, crypto: true}
+- model: portfolio.currency
+  pk: 215
+  fields: {code: AMP, name: Synereo, crypto: true}
+- model: portfolio.currency
+  pk: 216
+  fields: {code: DUST, name: DUST, crypto: true}
+- model: portfolio.currency
+  pk: 217
+  fields: {code: DESH, name: DESH, crypto: true}
+- model: portfolio.currency
+  pk: 218
+  fields: {code: BYC, name: Bytecent, crypto: true}
+- model: portfolio.currency
+  pk: 219
+  fields: {code: BTCD, name: BitcoinDark, crypto: true}
+- model: portfolio.currency
+  pk: 220
+  fields: {code: JNS, name: JNS, crypto: true}
+- model: portfolio.currency
+  pk: 221
+  fields: {code: SNG, name: SNG, crypto: true}
+- model: portfolio.currency
+  pk: 222
+  fields: {code: LOOK, name: LOOK, crypto: true}
+- model: portfolio.currency
+  pk: 223
+  fields: {code: MAY, name: MAY, crypto: true}
+- model: portfolio.currency
+  pk: 224
+  fields: {code: MONEY, name: MONEY, crypto: true}
+- model: portfolio.currency
+  pk: 225
+  fields: {code: ACLR, name: ACLR, crypto: true}
+- model: portfolio.currency
+  pk: 226
+  fields: {code: MAI, name: MAI, crypto: true}
+- model: portfolio.currency
+  pk: 227
+  fields: {code: LOOT, name: LOOT, crypto: true}
+- model: portfolio.currency
+  pk: 228
+  fields: {code: RICE, name: RICE, crypto: true}
+- model: portfolio.currency
+  pk: 229
+  fields: {code: XDE2, name: XDE2, crypto: true}
+- model: portfolio.currency
+  pk: 230
+  fields: {code: GUC, name: GUC, crypto: true}
+- model: portfolio.currency
+  pk: 231
+  fields: {code: CKS, name: CKS, crypto: true}
+- model: portfolio.currency
+  pk: 232
+  fields: {code: EVO, name: EVO, crypto: true}
+- model: portfolio.currency
+  pk: 233
+  fields: {code: BEC, name: BEC, crypto: true}
+- model: portfolio.currency
+  pk: 234
+  fields: {code: TSE, name: TSE, crypto: true}
+- model: portfolio.currency
+  pk: 235
+  fields: {code: BOSON, name: BOSON, crypto: true}
+- model: portfolio.currency
+  pk: 236
+  fields: {code: VENE, name: VENE, crypto: true}
+- model: portfolio.currency
+  pk: 237
+  fields: {code: KUBO, name: KUBO, crypto: true}
+- model: portfolio.currency
+  pk: 238
+  fields: {code: GUP, name: GUP, crypto: true}
+- model: portfolio.currency
+  pk: 239
+  fields: {code: M1, name: M1, crypto: true}
+- model: portfolio.currency
+  pk: 240
+  fields: {code: CWXT, name: CWXT, crypto: true}
+- model: portfolio.currency
+  pk: 241
+  fields: {code: YBC, name: Ybcoin, crypto: true}
+- model: portfolio.currency
+  pk: 242
+  fields: {code: DTT, name: DTT, crypto: true}
+- model: portfolio.currency
+  pk: 243
+  fields: {code: LSD, name: LSD, crypto: true}
+- model: portfolio.currency
+  pk: 244
+  fields: {code: LSB, name: LSB, crypto: true}
+- model: portfolio.currency
+  pk: 245
+  fields: {code: HUC, name: HUC, crypto: true}
+- model: portfolio.currency
+  pk: 246
+  fields: {code: DIRT, name: DIRT, crypto: true}
+- model: portfolio.currency
+  pk: 247
+  fields: {code: LSK, name: Lisk, crypto: true}
+- model: portfolio.currency
+  pk: 248
+  fields: {code: CAPT, name: CAPT, crypto: true}
+- model: portfolio.currency
+  pk: 249
+  fields: {code: HUS, name: HUS, crypto: true}
+- model: portfolio.currency
+  pk: 250
+  fields: {code: SPORT, name: SPORT, crypto: true}
+- model: portfolio.currency
+  pk: 251
+  fields: {code: VLT, name: VLT, crypto: true}
+- model: portfolio.currency
+  pk: 252
+  fields: {code: SOLO, name: SOLO, crypto: true}
+- model: portfolio.currency
+  pk: 253
+  fields: {code: GRS, name: Groestlcoin, crypto: true}
+- model: portfolio.currency
+  pk: 254
+  fields: {code: BLU, name: BLU, crypto: true}
+- model: portfolio.currency
+  pk: 255
+  fields: {code: '1337', name: '1337', crypto: true}
+- model: portfolio.currency
+  pk: 256
+  fields: {code: C0C0, name: C0C0, crypto: true}
+- model: portfolio.currency
+  pk: 257
+  fields: {code: N2O, name: N2O, crypto: true}
+- model: portfolio.currency
+  pk: 258
+  fields: {code: GRF, name: Graffiti, crypto: true}
+- model: portfolio.currency
+  pk: 259
+  fields: {code: HCC, name: HCC, crypto: true}
+- model: portfolio.currency
+  pk: 260
+  fields: {code: FTC, name: Feathercoin, crypto: true}
+- model: portfolio.currency
+  pk: 261
+  fields: {code: GRE, name: GRE, crypto: true}
+- model: portfolio.currency
+  pk: 262
+  fields: {code: GRC, name: Gridcoin, crypto: true}
+- model: portfolio.currency
+  pk: 263
+  fields: {code: BLK, name: Blackcoin, crypto: true}
+- model: portfolio.currency
+  pk: 264
+  fields: {code: GARY, name: GARY, crypto: true}
+- model: portfolio.currency
+  pk: 265
+  fields: {code: MG, name: MG, crypto: true}
+- model: portfolio.currency
+  pk: 266
+  fields: {code: NOO, name: NOO, crypto: true}
+- model: portfolio.currency
+  pk: 267
+  fields: {code: CBD, name: CBD, crypto: true}
+- model: portfolio.currency
+  pk: 268
+  fields: {code: MM, name: MM, crypto: true}
+- model: portfolio.currency
+  pk: 269
+  fields: {code: INV, name: INV, crypto: true}
+- model: portfolio.currency
+  pk: 270
+  fields: {code: MI, name: Xiaomicoin, crypto: true}
+- model: portfolio.currency
+  pk: 271
+  fields: {code: MPRO, name: MPRO, crypto: true}
+- model: portfolio.currency
+  pk: 272
+  fields: {code: GOAT, name: GOAT, crypto: true}
+- model: portfolio.currency
+  pk: 273
+  fields: {code: GCR, name: GoCoineR, crypto: true}
+- model: portfolio.currency
+  pk: 274
+  fields: {code: RADS, name: Radium, crypto: true}
+- model: portfolio.currency
+  pk: 275
+  fields: {code: EMC2, name: Einsteinium, crypto: true}
+- model: portfolio.currency
+  pk: 276
+  fields: {code: CBX, name: Crypto Bullion, crypto: true}
+- model: portfolio.currency
+  pk: 277
+  fields: {code: HLB, name: HLB, crypto: true}
+- model: portfolio.currency
+  pk: 278
+  fields: {code: INC, name: INC, crypto: true}
+- model: portfolio.currency
+  pk: 279
+  fields: {code: EKO, name: EKO, crypto: true}
+- model: portfolio.currency
+  pk: 280
+  fields: {code: GLO, name: GLO, crypto: true}
+- model: portfolio.currency
+  pk: 281
+  fields: {code: FJC, name: FJC, crypto: true}
+- model: portfolio.currency
+  pk: 282
+  fields: {code: BLITZ, name: Blitzcoin, crypto: true}
+- model: portfolio.currency
+  pk: 283
+  fields: {code: REP, name: Augur, crypto: true}
+- model: portfolio.currency
+  pk: 284
+  fields: {code: GLC, name: GLC, crypto: true}
+- model: portfolio.currency
+  pk: 285
+  fields: {code: GLD, name: GoldCoin, crypto: true}
+- model: portfolio.currency
+  pk: 286
+  fields: {code: CHOOF, name: CHOOF, crypto: true}
+- model: portfolio.currency
+  pk: 287
+  fields: {code: TMRW, name: TMRW, crypto: true}
+- model: portfolio.currency
+  pk: 288
+  fields: {code: DOX, name: DOX, crypto: true}
+- model: portfolio.currency
+  pk: 289
+  fields: {code: CST, name: CST, crypto: true}
+- model: portfolio.currency
+  pk: 290
+  fields: {code: CTL, name: CTL, crypto: true}
+- model: portfolio.currency
+  pk: 291
+  fields: {code: SMF, name: SMF, crypto: true}
+- model: portfolio.currency
+  pk: 292
+  fields: {code: CTO, name: CTO, crypto: true}
+- model: portfolio.currency
+  pk: 293
+  fields: {code: DOV, name: DOV, crypto: true}
+- model: portfolio.currency
+  pk: 294
+  fields: {code: TRS, name: TRS, crypto: true}
+- model: portfolio.currency
+  pk: 295
+  fields: {code: CTK, name: CTK, crypto: true}
+- model: portfolio.currency
+  pk: 296
+  fields: {code: FCP, name: FCP, crypto: true}
+- model: portfolio.currency
+  pk: 297
+  fields: {code: CLAM, name: Clams, crypto: true}
+- model: portfolio.currency
+  pk: 298
+  fields: {code: FCT, name: Factom, crypto: true}
+- model: portfolio.currency
+  pk: 299
+  fields: {code: CSMIC, name: CSMIC, crypto: true}
+- model: portfolio.currency
+  pk: 300
+  fields: {code: GIFT, name: GIFT, crypto: true}
+- model: portfolio.currency
+  pk: 301
+  fields: {code: BST, name: BST, crypto: true}
+- model: portfolio.currency
+  pk: 302
+  fields: {code: QTUM, name: QTUM, crypto: true}
+- model: portfolio.currency
+  pk: 303
+  fields: {code: DROP, name: DROP, crypto: true}
+- model: portfolio.currency
+  pk: 304
+  fields: {code: TERRA, name: TERRA, crypto: true}
+- model: portfolio.currency
+  pk: 305
+  fields: {code: ARTA, name: ARTA, crypto: true}
+- model: portfolio.currency
+  pk: 306
+  fields: {code: ARTC, name: ARTC, crypto: true}
+- model: portfolio.currency
+  pk: 307
+  fields: {code: FUZZ, name: FUZZ, crypto: true}
+- model: portfolio.currency
+  pk: 308
+  fields: {code: BSH, name: BSH, crypto: true}
+- model: portfolio.currency
+  pk: 309
+  fields: {code: BIGC, name: BIGC, crypto: true}
+- model: portfolio.currency
+  pk: 310
+  fields: {code: FCN, name: FCN, crypto: true}
+- model: portfolio.currency
+  pk: 311
+  fields: {code: TAA, name: TAA, crypto: true}
+- model: portfolio.currency
+  pk: 312
+  fields: {code: LTS, name: LTS, crypto: true}
+- model: portfolio.currency
+  pk: 313
+  fields: {code: BTU, name: Bitcoin Unlimited, crypto: true}
+- model: portfolio.currency
+  pk: 314
+  fields: {code: IBC, name: IBC, crypto: true}
+- model: portfolio.currency
+  pk: 315
+  fields: {code: IFLT, name: IFLT, crypto: true}
+- model: portfolio.currency
+  pk: 316
+  fields: {code: XTP, name: XTP, crypto: true}
+- model: portfolio.currency
+  pk: 317
+  fields: {code: CRW, name: CRW, crypto: true}
+- model: portfolio.currency
+  pk: 318
+  fields: {code: DFT, name: DFT, crypto: true}
+- model: portfolio.currency
+  pk: 319
+  fields: {code: AUM, name: AUM, crypto: true}
+- model: portfolio.currency
+  pk: 320
+  fields: {code: LTC, name: Litecoin, crypto: true}
+- model: portfolio.currency
+  pk: 321
+  fields: {code: MCAR, name: MCAR, crypto: true}
+- model: portfolio.currency
+  pk: 322
+  fields: {code: AUR, name: Auroracoin, crypto: true}
+- model: portfolio.currency
+  pk: 323
+  fields: {code: XTC, name: TileCoin, crypto: true}
+- model: portfolio.currency
+  pk: 324
+  fields: {code: 1ST, name: 1ST, crypto: true}
+- model: portfolio.currency
+  pk: 325
+  fields: {code: XTO, name: XTO, crypto: true}
+- model: portfolio.currency
+  pk: 326
+  fields: {code: BTQ, name: BitQuark, crypto: true}
+- model: portfolio.currency
+  pk: 327
+  fields: {code: GLTC, name: GLTC, crypto: true}
+- model: portfolio.currency
+  pk: 328
+  fields: {code: MOTO, name: MOTO, crypto: true}
+- model: portfolio.currency
+  pk: 329
+  fields: {code: TAO, name: TAO, crypto: true}
+- model: portfolio.currency
+  pk: 330
+  fields: {code: XODUS, name: XODUS, crypto: true}
+- model: portfolio.currency
+  pk: 331
+  fields: {code: EDG, name: EDG, crypto: true}
+- model: portfolio.currency
+  pk: 332
+  fields: {code: ACPR, name: ACPR, crypto: true}
+- model: portfolio.currency
+  pk: 333
+  fields: {code: SP, name: SP, crypto: true}
+- model: portfolio.currency
+  pk: 334
+  fields: {code: ALC, name: ALC, crypto: true}
+- model: portfolio.currency
+  pk: 335
+  fields: {code: RLC, name: RLC, crypto: true}
+- model: portfolio.currency
+  pk: 336
+  fields: {code: EDR, name: EDRCoin, crypto: true}
+- model: portfolio.currency
+  pk: 337
+  fields: {code: ORO, name: ORO, crypto: true}
+- model: portfolio.currency
+  pk: 338
+  fields: {code: SH, name: SH, crypto: true}
+- model: portfolio.currency
+  pk: 339
+  fields: {code: TAJ, name: TAJ, crypto: true}
+- model: portfolio.currency
+  pk: 340
+  fields: {code: WAVES, name: WAVES, crypto: true}
+- model: portfolio.currency
+  pk: 341
+  fields: {code: PUT, name: PUT, crypto: true}
+- model: portfolio.currency
+  pk: 342
+  fields: {code: RLT, name: RLT, crypto: true}
+- model: portfolio.currency
+  pk: 343
+  fields: {code: ALT, name: ALT, crypto: true}
+- model: portfolio.currency
+  pk: 344
+  fields: {code: LMC, name: LMC, crypto: true}
+- model: portfolio.currency
+  pk: 345
+  fields: {code: MARX, name: MARX, crypto: true}
+- model: portfolio.currency
+  pk: 346
+  fields: {code: BAC, name: BAC, crypto: true}
+- model: portfolio.currency
+  pk: 347
+  fields: {code: FUTC, name: FUTC, crypto: true}
+- model: portfolio.currency
+  pk: 348
+  fields: {code: OMNI, name: Mastercoin (Omni), crypto: true}
+- model: portfolio.currency
+  pk: 349
+  fields: {code: TOR, name: TOR, crypto: true}
+- model: portfolio.currency
+  pk: 350
+  fields: {code: XHI, name: HiCoin, crypto: true}
+- model: portfolio.currency
+  pk: 351
+  fields: {code: RICHX, name: RICHX, crypto: true}
+- model: portfolio.currency
+  pk: 352
+  fields: {code: ERY, name: ERY, crypto: true}
+- model: portfolio.currency
+  pk: 353
+  fields: {code: TOT, name: TOT, crypto: true}
+- model: portfolio.currency
+  pk: 354
+  fields: {code: BAY, name: BAY, crypto: true}
+- model: portfolio.currency
+  pk: 355
+  fields: {code: BAB, name: BAB, crypto: true}
+- model: portfolio.currency
+  pk: 356
+  fields: {code: OS76, name: OS76, crypto: true}
+- model: portfolio.currency
+  pk: 357
+  fields: {code: ERC, name: ERC, crypto: true}
+- model: portfolio.currency
+  pk: 358
+  fields: {code: BAN, name: BAN, crypto: true}
+- model: portfolio.currency
+  pk: 359
+  fields: {code: CAB, name: Cabbage Unit, crypto: true}
+- model: portfolio.currency
+  pk: 360
+  fields: {code: RBIT, name: RBIT, crypto: true}
+- model: portfolio.currency
+  pk: 361
+  fields: {code: GREED, name: GREED, crypto: true}
+- model: portfolio.currency
+  pk: 362
+  fields: {code: INCP, name: INCP, crypto: true}
+- model: portfolio.currency
+  pk: 363
+  fields: {code: XPM, name: Primecoin, crypto: true}
+- model: portfolio.currency
+  pk: 364
+  fields: {code: BTD, name: BTD, crypto: true}
+- model: portfolio.currency
+  pk: 365
+  fields: {code: ZET2, name: ZET2, crypto: true}
+- model: portfolio.currency
+  pk: 366
+  fields: {code: DASHS, name: DASHS, crypto: true}
+- model: portfolio.currency
+  pk: 367
+  fields: {code: PASC, name: PASC, crypto: true}
+- model: portfolio.currency
+  pk: 368
+  fields: {code: ONE, name: ONE, crypto: true}
+- model: portfolio.currency
+  pk: 369
+  fields: {code: XPTX, name: XPTX, crypto: true}
+- model: portfolio.currency
+  pk: 370
+  fields: {code: DYN, name: DYN, crypto: true}
+- model: portfolio.currency
+  pk: 371
+  fields: {code: JIO, name: JIO, crypto: true}
+- model: portfolio.currency
+  pk: 372
+  fields: {code: AIB, name: AIB, crypto: true}
+- model: portfolio.currency
+  pk: 373
+  fields: {code: MOOND, name: MOOND, crypto: true}
+- model: portfolio.currency
+  pk: 374
+  fields: {code: STE, name: STE, crypto: true}
+- model: portfolio.currency
+  pk: 375
+  fields: {code: GBRC, name: GBRC, crypto: true}
+- model: portfolio.currency
+  pk: 376
+  fields: {code: STA, name: STA, crypto: true}
+- model: portfolio.currency
+  pk: 377
+  fields: {code: SSUC, name: SSUC, crypto: true}
+- model: portfolio.currency
+  pk: 378
+  fields: {code: DCYP, name: DCYP, crypto: true}
+- model: portfolio.currency
+  pk: 379
+  fields: {code: '611', name: '611', crypto: true}
+- model: portfolio.currency
+  pk: 380
+  fields: {code: ABN, name: ABN, crypto: true}
+- model: portfolio.currency
+  pk: 381
+  fields: {code: NZC, name: NZC, crypto: true}
+- model: portfolio.currency
+  pk: 382
+  fields: {code: NEOS, name: NeosCoin, crypto: true}
+- model: portfolio.currency
+  pk: 383
+  fields: {code: STV, name: STV, crypto: true}
+- model: portfolio.currency
+  pk: 384
+  fields: {code: MUSIC, name: MUSIC, crypto: true}
+- model: portfolio.currency
+  pk: 385
+  fields: {code: XOC, name: XOC, crypto: true}
+- model: portfolio.currency
+  pk: 386
+  fields: {code: STR, name: Stellar, crypto: true}
+- model: portfolio.currency
+  pk: 387
+  fields: {code: KTK, name: KTK, crypto: true}
+- model: portfolio.currency
+  pk: 388
+  fields: {code: XON, name: XON, crypto: true}
+- model: portfolio.currency
+  pk: 389
+  fields: {code: ABY, name: ArtByte, crypto: true}
+- model: portfolio.currency
+  pk: 390
+  fields: {code: EXCL, name: EXCL, crypto: true}
+- model: portfolio.currency
+  pk: 391
+  fields: {code: LC, name: LC, crypto: true}
+- model: portfolio.currency
+  pk: 392
+  fields: {code: FCH, name: FCH, crypto: true}
+- model: portfolio.currency
+  pk: 393
+  fields: {code: BHC, name: BHC, crypto: true}
+- model: portfolio.currency
+  pk: 394
+  fields: {code: NCS, name: NCS, crypto: true}
+- model: portfolio.currency
+  pk: 395
+  fields: {code: CFC, name: CFC, crypto: true}
+- model: portfolio.currency
+  pk: 396
+  fields: {code: BTRX, name: BTRX, crypto: true}
+- model: portfolio.currency
+  pk: 397
+  fields: {code: PNK, name: PNK, crypto: true}
+- model: portfolio.currency
+  pk: 398
+  fields: {code: CRAB, name: CRAB, crypto: true}
+- model: portfolio.currency
+  pk: 399
+  fields: {code: JANE, name: JANE, crypto: true}
+- model: portfolio.currency
+  pk: 400
+  fields: {code: EQM, name: EQM, crypto: true}
+- model: portfolio.currency
+  pk: 401
+  fields: {code: PNC, name: PNC, crypto: true}
+- model: portfolio.currency
+  pk: 402
+  fields: {code: CALC, name: CALC, crypto: true}
+- model: portfolio.currency
+  pk: 403
+  fields: {code: PND, name: Pandacoin, crypto: true}
+- model: portfolio.currency
+  pk: 404
+  fields: {code: QRK, name: Quark, crypto: true}
+- model: portfolio.currency
+  pk: 405
+  fields: {code: XQN, name: XQN, crypto: true}
+- model: portfolio.currency
+  pk: 406
+  fields: {code: ECON, name: ECON, crypto: true}
+- model: portfolio.currency
+  pk: 407
+  fields: {code: ROYAL, name: ROYAL, crypto: true}
+- model: portfolio.currency
+  pk: 408
+  fields: {code: XPS, name: XPS, crypto: true}
+- model: portfolio.currency
+  pk: 409
+  fields: {code: LIV, name: LIV, crypto: true}
+- model: portfolio.currency
+  pk: 410
+  fields: {code: EGO, name: EGO, crypto: true}
+- model: portfolio.currency
+  pk: 411
+  fields: {code: DKC, name: DKC, crypto: true}
+- model: portfolio.currency
+  pk: 412
+  fields: {code: LIR, name: LIR, crypto: true}
+- model: portfolio.currency
+  pk: 413
+  fields: {code: BNB, name: BNB, crypto: true}
+- model: portfolio.currency
+  pk: 414
+  fields: {code: EGC, name: EverGreenCoin, crypto: true}
+- model: portfolio.currency
+  pk: 415
+  fields: {code: MIS, name: MIS, crypto: true}
+- model: portfolio.currency
+  pk: 416
+  fields: {code: MIU, name: MIU, crypto: true}
+- model: portfolio.currency
+  pk: 417
+  fields: {code: AMBER, name: AMBER, crypto: true}
+- model: portfolio.currency
+  pk: 418
+  fields: {code: IMPS, name: IMPS, crypto: true}
+- model: portfolio.currency
+  pk: 419
+  fields: {code: BITOK, name: BITOK, crypto: true}
+- model: portfolio.currency
+  pk: 420
+  fields: {code: PUTIN, name: PUTIN, crypto: true}
+- model: portfolio.currency
+  pk: 421
+  fields: {code: FGZ, name: FGZ, crypto: true}
+- model: portfolio.currency
+  pk: 422
+  fields: {code: BITON, name: BITON, crypto: true}
+- model: portfolio.currency
+  pk: 423
+  fields: {code: PRM, name: PRM, crypto: true}
+- model: portfolio.currency
+  pk: 424
+  fields: {code: STRAT, name: STRAT, crypto: true}
+- model: portfolio.currency
+  pk: 425
+  fields: {code: FX, name: FX, crypto: true}
+- model: portfolio.currency
+  pk: 426
+  fields: {code: VIDZ, name: VIDZ, crypto: true}
+- model: portfolio.currency
+  pk: 427
+  fields: {code: LBC, name: LBC, crypto: true}
+- model: portfolio.currency
+  pk: 428
+  fields: {code: '404', name: '404', crypto: true}
+- model: portfolio.currency
+  pk: 429
+  fields: {code: XZA, name: XZA, crypto: true}
+- model: portfolio.currency
+  pk: 430
+  fields: {code: FADE, name: FADE, crypto: true}
+- model: portfolio.currency
+  pk: 431
+  fields: {code: '2015', name: '2015', crypto: true}
+- model: portfolio.currency
+  pk: 432
+  fields: {code: JOK, name: JOK, crypto: true}
+- model: portfolio.currency
+  pk: 433
+  fields: {code: DCRE, name: DCRE, crypto: true}
+- model: portfolio.currency
+  pk: 434
+  fields: {code: PRX, name: PRX, crypto: true}
+- model: portfolio.currency
+  pk: 435
+  fields: {code: CHEMX, name: CHEMX, crypto: true}
+- model: portfolio.currency
+  pk: 436
+  fields: {code: URC, name: URC, crypto: true}
+- model: portfolio.currency
+  pk: 437
+  fields: {code: DGORE, name: DGORE, crypto: true}
+- model: portfolio.currency
+  pk: 438
+  fields: {code: URO, name: Uro, crypto: true}
+- model: portfolio.currency
+  pk: 439
+  fields: {code: MRP, name: MRP, crypto: true}
+- model: portfolio.currency
+  pk: 440
+  fields: {code: YMC, name: YMC, crypto: true}
+- model: portfolio.currency
+  pk: 441
+  fields: {code: BASH, name: BASH, crypto: true}
+- model: portfolio.currency
+  pk: 442
+  fields: {code: FIRST, name: FIRST, crypto: true}
+- model: portfolio.currency
+  pk: 443
+  fields: {code: APX, name: APX, crypto: true}
+- model: portfolio.currency
+  pk: 444
+  fields: {code: VIA, name: Viacoin, crypto: true}
+- model: portfolio.currency
+  pk: 445
+  fields: {code: TRUMP, name: TrumpCoin, crypto: true}
+- model: portfolio.currency
+  pk: 446
+  fields: {code: GAC, name: GAC, crypto: true}
+- model: portfolio.currency
+  pk: 447
+  fields: {code: SFT, name: SFT, crypto: true}
+- model: portfolio.currency
+  pk: 448
+  fields: {code: GAME, name: GameCredits, crypto: true}
+- model: portfolio.currency
+  pk: 449
+  fields: {code: DBG, name: DBG, crypto: true}
+- model: portfolio.currency
+  pk: 450
+  fields: {code: SNGLS, name: SNGLS, crypto: true}
+- model: portfolio.currency
+  pk: 451
+  fields: {code: VIP, name: VIP Tokens, crypto: true}
+- model: portfolio.currency
+  pk: 452
+  fields: {code: 8BIT, name: 8Bit, crypto: true}
+- model: portfolio.currency
+  pk: 453
+  fields: {code: KAT, name: KAT, crypto: true}
+- model: portfolio.currency
+  pk: 454
+  fields: {code: PUPA, name: PUPA, crypto: true}
+- model: portfolio.currency
+  pk: 455
+  fields: {code: APC, name: Applecoin, crypto: true}
+- model: portfolio.currency
+  pk: 456
+  fields: {code: SFE, name: SFE, crypto: true}
+- model: portfolio.currency
+  pk: 457
+  fields: {code: DBT, name: DBT, crypto: true}
+- model: portfolio.currency
+  pk: 458
+  fields: {code: XLM, name: Stellar, crypto: true}
+- model: portfolio.currency
+  pk: 459
+  fields: {code: STAR, name: STAR, crypto: true}
+- model: portfolio.currency
+  pk: 460
+  fields: {code: KORE, name: KoreCoin, crypto: true}
+- model: portfolio.currency
+  pk: 461
+  fields: {code: XLC, name: XLC, crypto: true}
+- model: portfolio.currency
+  pk: 462
+  fields: {code: GOLOS, name: GOLOS, crypto: true}
+- model: portfolio.currency
+  pk: 463
+  fields: {code: IFC, name: Infinitecoin, crypto: true}
+- model: portfolio.currency
+  pk: 464
+  fields: {code: FUN, name: FUN, crypto: true}
+- model: portfolio.currency
+  pk: 465
+  fields: {code: CRE, name: CRE, crypto: true}
+- model: portfolio.currency
+  pk: 466
+  fields: {code: LENIN, name: LENIN, crypto: true}
+- model: portfolio.currency
+  pk: 467
+  fields: {code: SLING, name: Sling, crypto: true}
+- model: portfolio.currency
+  pk: 468
+  fields: {code: TKN, name: TKN, crypto: true}
+- model: portfolio.currency
+  pk: 469
+  fields: {code: PLNC, name: PLNC, crypto: true}
+- model: portfolio.currency
+  pk: 470
+  fields: {code: HMQ, name: HMQ, crypto: true}
+- model: portfolio.currency
+  pk: 471
+  fields: {code: CZECO, name: CZECO, crypto: true}
+- model: portfolio.currency
+  pk: 472
+  fields: {code: PKB, name: PKB, crypto: true}
+- model: portfolio.currency
+  pk: 473
+  fields: {code: TKS, name: TKS, crypto: true}
+- model: portfolio.currency
+  pk: 474
+  fields: {code: NLG, name: Gulden, crypto: true}
+- model: portfolio.currency
+  pk: 475
+  fields: {code: GOON, name: GOON, crypto: true}
+- model: portfolio.currency
+  pk: 476
+  fields: {code: CRPC, name: CRPC, crypto: true}
+- model: portfolio.currency
+  pk: 477
+  fields: {code: DBTC, name: DBTC, crypto: true}
+- model: portfolio.currency
+  pk: 478
+  fields: {code: RUST, name: RUST, crypto: true}
+- model: portfolio.currency
+  pk: 479
+  fields: {code: DLC, name: DLC, crypto: true}
+- model: portfolio.currency
+  pk: 480
+  fields: {code: EL, name: EL, crypto: true}
+- model: portfolio.currency
+  pk: 481
+  fields: {code: GCC, name: GCC, crypto: true}
+- model: portfolio.currency
+  pk: 482
+  fields: {code: HODL, name: HOdlcoin, crypto: true}
+- model: portfolio.currency
+  pk: 483
+  fields: {code: ENE, name: ENE, crypto: true}
+- model: portfolio.currency
+  pk: 484
+  fields: {code: DGC, name: Digitalcoin, crypto: true}
+- model: portfolio.currency
+  pk: 485
+  fields: {code: NUBIS, name: NUBIS, crypto: true}
+- model: portfolio.currency
+  pk: 486
+  fields: {code: WOP, name: WOP, crypto: true}
+- model: portfolio.currency
+  pk: 487
+  fields: {code: ORLY, name: Orlycoin, crypto: true}
+- model: portfolio.currency
+  pk: 488
+  fields: {code: AECC, name: AECC, crypto: true}
+- model: portfolio.currency
+  pk: 489
+  fields: {code: LUNA, name: LUNA, crypto: true}
+- model: portfolio.currency
+  pk: 490
+  fields: {code: SEEDS, name: SEEDS, crypto: true}
+- model: portfolio.currency
+  pk: 491
+  fields: {code: ENT, name: ENT, crypto: true}
+- model: portfolio.currency
+  pk: 492
+  fields: {code: HIFUN, name: HIFUN, crypto: true}
+- model: portfolio.currency
+  pk: 493
+  fields: {code: POSW, name: POSW, crypto: true}
+- model: portfolio.currency
+  pk: 494
+  fields: {code: POST, name: POST, crypto: true}
+- model: portfolio.currency
+  pk: 495
+  fields: {code: ANAL, name: ANAL, crypto: true}
+- model: portfolio.currency
+  pk: 496
+  fields: {code: NIXON, name: NIXON, crypto: true}
+- model: portfolio.currency
+  pk: 497
+  fields: {code: MGC, name: MGC, crypto: true}
+- model: portfolio.currency
+  pk: 498
+  fields: {code: BTX, name: BTX, crypto: true}
+- model: portfolio.currency
+  pk: 499
+  fields: {code: LEAF, name: LEAF, crypto: true}
+- model: portfolio.currency
+  pk: 500
+  fields: {code: BTP, name: BTP, crypto: true}
+- model: portfolio.currency
+  pk: 501
+  fields: {code: BTS, name: BitShares, crypto: true}
+- model: portfolio.currency
+  pk: 502
+  fields: {code: XCE, name: XCE, crypto: true}
+- model: portfolio.currency
+  pk: 503
+  fields: {code: DOGE, name: Dogecoin, crypto: true}
+- model: portfolio.currency
+  pk: 504
+  fields: {code: XCN, name: Cryptonite, crypto: true}
+- model: portfolio.currency
+  pk: 505
+  fields: {code: HEAT, name: HEAT, crypto: true}
+- model: portfolio.currency
+  pk: 506
+  fields: {code: MOON, name: Mooncoin, crypto: true}
+- model: portfolio.currency
+  pk: 507
+  fields: {code: PINKX, name: PINKX, crypto: true}
+- model: portfolio.currency
+  pk: 508
+  fields: {code: XCP, name: Counterparty, crypto: true}
+- model: portfolio.currency
+  pk: 509
+  fields: {code: BTA, name: Bata, crypto: true}
+- model: portfolio.currency
+  pk: 510
+  fields: {code: BTC, name: Bitcoin, crypto: true}
+- model: portfolio.currency
+  pk: 511
+  fields: {code: TIME, name: TIME, crypto: true}
+- model: portfolio.currency
+  pk: 512
+  fields: {code: BTM, name: Bitmark, crypto: true}
+- model: portfolio.currency
+  pk: 513
+  fields: {code: ZRC, name: ZiftrCOIN, crypto: true}
+- model: portfolio.currency
+  pk: 514
+  fields: {code: HEDG, name: HEDG, crypto: true}
+- model: portfolio.currency
+  pk: 515
+  fields: {code: PROC, name: PROC, crypto: true}
+- model: portfolio.currency
+  pk: 516
+  fields: {code: MUU, name: MUU, crypto: true}
+- model: portfolio.currency
+  pk: 517
+  fields: {code: STEEM, name: Steem, crypto: true}
+- model: portfolio.currency
+  pk: 518
+  fields: {code: ATM, name: ATM, crypto: true}
+- model: portfolio.currency
+  pk: 519
+  fields: {code: SPHR, name: Sphere, crypto: true}
+- model: portfolio.currency
+  pk: 520
+  fields: {code: MUE, name: MonetaryUnit, crypto: true}
+- model: portfolio.currency
+  pk: 521
+  fields: {code: CURE, name: Curecoin, crypto: true}
+- model: portfolio.currency
+  pk: 522
+  fields: {code: WEX, name: WEX, crypto: true}
+- model: portfolio.currency
+  pk: 523
+  fields: {code: ISL, name: IslaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 524
+  fields: {code: DMD, name: Diamond, crypto: true}
+- model: portfolio.currency
+  pk: 525
+  fields: {code: ATX, name: ATX, crypto: true}
+- model: portfolio.currency
+  pk: 526
+  fields: {code: BTZ, name: BTZ, crypto: true}
+- model: portfolio.currency
+  pk: 527
+  fields: {code: DGB, name: Digibyte, crypto: true}
+- model: portfolio.currency
+  pk: 528
+  fields: {code: RMS, name: RMS, crypto: true}
+- model: portfolio.currency
+  pk: 529
+  fields: {code: CRT, name: CRT, crypto: true}
+- model: portfolio.currency
+  pk: 530
+  fields: {code: DGD, name: DarkGoldCoin, crypto: true}
+- model: portfolio.currency
+  pk: 531
+  fields: {code: AST, name: AST, crypto: true}
+- model: portfolio.currency
+  pk: 532
+  fields: {code: ECO, name: ECO, crypto: true}
+- model: portfolio.currency
+  pk: 533
+  fields: {code: ECN, name: ECN, crypto: true}
+- model: portfolio.currency
+  pk: 534
+  fields: {code: QTZ, name: QTZ, crypto: true}
+- model: portfolio.currency
+  pk: 535
+  fields: {code: BITB, name: BitBean, crypto: true}
+- model: portfolio.currency
+  pk: 536
+  fields: {code: BRAIN, name: BRAIN, crypto: true}
+- model: portfolio.currency
+  pk: 537
+  fields: {code: SED, name: SED, crypto: true}
+- model: portfolio.currency
+  pk: 538
+  fields: {code: SEC, name: Safe Exchange Coin, crypto: true}
+- model: portfolio.currency
+  pk: 539
+  fields: {code: ECLI, name: ECLI, crypto: true}
+- model: portfolio.currency
+  pk: 540
+  fields: {code: EVA, name: EVA, crypto: true}
+- model: portfolio.currency
+  pk: 541
+  fields: {code: RBIES, name: Rubies, crypto: true}
+- model: portfolio.currency
+  pk: 542
+  fields: {code: SEN, name: SEN, crypto: true}
+- model: portfolio.currency
+  pk: 543
+  fields: {code: QTL, name: Quatloo, crypto: true}
+- model: portfolio.currency
+  pk: 544
+  fields: {code: WCN, name: WCN, crypto: true}
+- model: portfolio.currency
+  pk: 545
+  fields: {code: CLICK, name: CLICK, crypto: true}
+- model: portfolio.currency
+  pk: 546
+  fields: {code: BITZ, name: Bitz, crypto: true}
+- model: portfolio.currency
+  pk: 547
+  fields: {code: VTA, name: VTA, crypto: true}
+- model: portfolio.currency
+  pk: 548
+  fields: {code: VTC, name: Vertcoin, crypto: true}
+- model: portfolio.currency
+  pk: 549
+  fields: {code: YAY, name: YAY, crypto: true}
+- model: portfolio.currency
+  pk: 550
+  fields: {code: FRE, name: FRE, crypto: true}
+- model: portfolio.currency
+  pk: 551
+  fields: {code: DUO, name: DUO, crypto: true}
+- model: portfolio.currency
+  pk: 552
+  fields: {code: XB, name: XB, crypto: true}
+- model: portfolio.currency
+  pk: 553
+  fields: {code: UNY, name: UNY, crypto: true}
+- model: portfolio.currency
+  pk: 554
+  fields: {code: DUB, name: DUB, crypto: true}
+- model: portfolio.currency
+  pk: 555
+  fields: {code: FRN, name: FRN, crypto: true}
+- model: portfolio.currency
+  pk: 556
+  fields: {code: EUC, name: EUC, crypto: true}
+- model: portfolio.currency
+  pk: 557
+  fields: {code: DUX, name: DUX, crypto: true}
+- model: portfolio.currency
+  pk: 558
+  fields: {code: X2, name: X2, crypto: true}
+- model: portfolio.currency
+  pk: 559
+  fields: {code: TOKEN, name: TOKEN, crypto: true}
+- model: portfolio.currency
+  pk: 560
+  fields: {code: UNC, name: UNC, crypto: true}
+- model: portfolio.currency
+  pk: 561
+  fields: {code: TWERK, name: TWERK, crypto: true}
+- model: portfolio.currency
+  pk: 562
+  fields: {code: TLE, name: TLE, crypto: true}
+- model: portfolio.currency
+  pk: 563
+  fields: {code: PDG, name: PDG, crypto: true}
+- model: portfolio.currency
+  pk: 564
+  fields: {code: VTX, name: VTX, crypto: true}
+- model: portfolio.currency
+  pk: 565
+  fields: {code: ECCHI, name: ECCHI, crypto: true}
+- model: portfolio.currency
+  pk: 566
+  fields: {code: PDC, name: PDC, crypto: true}
+- model: portfolio.currency
+  pk: 567
+  fields: {code: CLR, name: CLR, crypto: true}
+- model: portfolio.currency
+  pk: 568
+  fields: {code: UNO, name: Unobtanium, crypto: true}
+- model: portfolio.currency
+  pk: 569
+  fields: {code: KC, name: KC, crypto: true}
+- model: portfolio.currency
+  pk: 570
+  fields: {code: ZEC, name: Zcash, crypto: true}
+- model: portfolio.currency
+  pk: 571
+  fields: {code: OMA, name: OMA, crypto: true}
+- model: portfolio.currency
+  pk: 572
+  fields: {code: RRT, name: RRT, crypto: true}
+- model: portfolio.currency
+  pk: 573
+  fields: {code: SCRT, name: SCRT, crypto: true}
+- model: portfolio.currency
+  pk: 574
+  fields: {code: ITI, name: ITI, crypto: true}
+- model: portfolio.currency
+  pk: 575
+  fields: {code: TWIST, name: TWIST, crypto: true}
+- model: portfolio.currency
+  pk: 576
+  fields: {code: CRAVE, name: CRAVE, crypto: true}
+- model: portfolio.currency
+  pk: 577
+  fields: {code: BLUS, name: BLUS, crypto: true}
+- model: portfolio.currency
+  pk: 578
+  fields: {code: INFX, name: Influxcoin, crypto: true}
+- model: portfolio.currency
+  pk: 579
+  fields: {code: MOJO, name: MojoCoin, crypto: true}
+- model: portfolio.currency
+  pk: 580
+  fields: {code: MAZE, name: MAZE, crypto: true}
+- model: portfolio.currency
+  pk: 581
+  fields: {code: DANC, name: DANC, crypto: true}
+- model: portfolio.currency
+  pk: 582
+  fields: {code: DEUS, name: DEUS, crypto: true}
+- model: portfolio.currency
+  pk: 583
+  fields: {code: BPC, name: Bitpark coin, crypto: true}
+- model: portfolio.currency
+  pk: 584
+  fields: {code: FOREX, name: FOREX, crypto: true}
+- model: portfolio.currency
+  pk: 585
+  fields: {code: SLFI, name: SLFI, crypto: true}
+- model: portfolio.currency
+  pk: 586
+  fields: {code: AMS, name: AMS, crypto: true}
+- model: portfolio.currency
+  pk: 587
+  fields: {code: SHIFT, name: Shift, crypto: true}
+- model: portfolio.currency
+  pk: 588
+  fields: {code: '888', name: '888', crypto: true}
+- model: portfolio.currency
+  pk: 589
+  fields: {code: DB, name: DB, crypto: true}
+- model: portfolio.currency
+  pk: 590
+  fields: {code: DC, name: DC, crypto: true}
+- model: portfolio.currency
+  pk: 591
+  fields: {code: WBB, name: Wild Beast Block, crypto: true}
+- model: portfolio.currency
+  pk: 592
+  fields: {code: NDOGE, name: NDOGE, crypto: true}
+- model: portfolio.currency
+  pk: 593
+  fields: {code: SWT, name: SWT, crypto: true}
+- model: portfolio.currency
+  pk: 594
+  fields: {code: DP, name: DigitalPrice, crypto: true}
+- model: portfolio.currency
+  pk: 595
+  fields: {code: DPAY, name: DPAY, crypto: true}
+- model: portfolio.currency
+  pk: 596
+  fields: {code: CMT, name: CMT, crypto: true}
+- model: portfolio.currency
+  pk: 597
+  fields: {code: GYC, name: GYC, crypto: true}
+- model: portfolio.currency
+  pk: 598
+  fields: {code: POT, name: Potcoin, crypto: true}
+- model: portfolio.currency
+  pk: 599
+  fields: {code: PIVX, name: PIVX, crypto: true}
+- model: portfolio.currency
+  pk: 600
+  fields: {code: RPC, name: RPC, crypto: true}
+- model: portfolio.currency
+  pk: 601
+  fields: {code: ARC, name: ARC, crypto: true}
+- model: portfolio.currency
+  pk: 602
+  fields: {code: BIZ, name: BIZ, crypto: true}
+- model: portfolio.currency
+  pk: 603
+  fields: {code: TEAM, name: TEAM, crypto: true}
+- model: portfolio.currency
+  pk: 604
+  fields: {code: BIT, name: BIT, crypto: true}
+- model: portfolio.currency
+  pk: 605
+  fields: {code: TRIG, name: TRIG, crypto: true}
+- model: portfolio.currency
+  pk: 606
+  fields: {code: VASH, name: VASH, crypto: true}
+- model: portfolio.currency
+  pk: 607
+  fields: {code: XPRO, name: XPRO, crypto: true}
+- model: portfolio.currency
+  pk: 608
+  fields: {code: NODC, name: NODC, crypto: true}
+- model: portfolio.currency
+  pk: 609
+  fields: {code: DOPE, name: DopeCoin, crypto: true}
+- model: portfolio.currency
+  pk: 610
+  fields: {code: RBT, name: Rimbit, crypto: true}
+- model: portfolio.currency
+  pk: 611
+  fields: {code: MLN, name: MLN, crypto: true}
+- model: portfolio.currency
+  pk: 612
+  fields: {code: ANT, name: Aragon, crypto: true}
+- model: portfolio.currency
+  pk: 613
+  fields: {code: SLR, name: Solarcoin, crypto: true}
+- model: portfolio.currency
+  pk: 614
+  fields: {code: SLS, name: SLS, crypto: true}
+- model: portfolio.currency
+  pk: 615
+  fields: {code: CRNK, name: CRNK, crypto: true}
+- model: portfolio.currency
+  pk: 616
+  fields: {code: KARMA, name: Karma, crypto: true}
+- model: portfolio.currency
+  pk: 617
+  fields: {code: DTB, name: DTB, crypto: true}
+- model: portfolio.currency
+  pk: 618
+  fields: {code: HXX, name: HXX, crypto: true}
+- model: portfolio.currency
+  pk: 619
+  fields: {code: NODX, name: NODX, crypto: true}
+- model: portfolio.currency
+  pk: 620
+  fields: {code: ARK, name: ARK, crypto: true}
+- model: portfolio.currency
+  pk: 621
+  fields: {code: NRC, name: NRC, crypto: true}
+- model: portfolio.currency
+  pk: 622
+  fields: {code: BBCC, name: BBCC, crypto: true}
+- model: portfolio.currency
+  pk: 623
+  fields: {code: XGB, name: XGB, crypto: true}
+- model: portfolio.currency
+  pk: 624
+  fields: {code: UNB, name: UNB, crypto: true}
+- model: portfolio.currency
+  pk: 625
+  fields: {code: LGD, name: LGD, crypto: true}
+- model: portfolio.currency
+  pk: 626
+  fields: {code: ARM, name: ARM, crypto: true}
+- model: portfolio.currency
+  pk: 627
+  fields: {code: DIBC, name: DIBC, crypto: true}
+- model: portfolio.currency
+  pk: 628
+  fields: {code: DRZ, name: DRZ, crypto: true}
+- model: portfolio.currency
+  pk: 629
+  fields: {code: GAKH, name: GAKH, crypto: true}
+- model: portfolio.currency
+  pk: 630
+  fields: {code: RONIN, name: RONIN, crypto: true}
+- model: portfolio.currency
+  pk: 631
+  fields: {code: PX, name: PX, crypto: true}
+- model: portfolio.currency
+  pk: 632
+  fields: {code: NICE, name: NICE, crypto: true}
+- model: portfolio.currency
+  pk: 633
+  fields: {code: EXB, name: EXB, crypto: true}
+- model: portfolio.currency
+  pk: 634
+  fields: {code: CLINT, name: CLINT, crypto: true}
+- model: portfolio.currency
+  pk: 635
+  fields: {code: WA, name: WA, crypto: true}
+- model: portfolio.currency
+  pk: 636
+  fields: {code: PAY, name: PAY, crypto: true}
+- model: portfolio.currency
+  pk: 637
+  fields: {code: JW, name: JW, crypto: true}
+- model: portfolio.currency
+  pk: 638
+  fields: {code: VEG, name: VEG, crypto: true}
+- model: portfolio.currency
+  pk: 639
+  fields: {code: VTY, name: VTY, crypto: true}
+- model: portfolio.currency
+  pk: 640
+  fields: {code: EXT, name: EXT, crypto: true}
+- model: portfolio.currency
+  pk: 641
+  fields: {code: PAC, name: PAC, crypto: true}
+- model: portfolio.currency
+  pk: 642
+  fields: {code: ELCO, name: ELcoin, crypto: true}
+- model: portfolio.currency
+  pk: 643
+  fields: {code: EXP, name: Expanse, crypto: true}
+- model: portfolio.currency
+  pk: 644
+  fields: {code: UNI, name: UNI, crypto: true}
+- model: portfolio.currency
+  pk: 645
+  fields: {code: NODES, name: NODES, crypto: true}
+- model: portfolio.currency
+  pk: 646
+  fields: {code: ALEX, name: ALEX, crypto: true}
+- model: portfolio.currency
+  pk: 647
+  fields: {code: BSTY, name: GlobalBoost-Y, crypto: true}
+- model: portfolio.currency
+  pk: 648
+  fields: {code: BEST, name: BEST, crypto: true}
+- model: portfolio.currency
+  pk: 649
+  fields: {code: BA, name: BA, crypto: true}
+- model: portfolio.currency
+  pk: 650
+  fields: {code: KIDS, name: KIDS, crypto: true}
+- model: portfolio.currency
+  pk: 651
+  fields: {code: ZNE, name: ZNE, crypto: true}
+- model: portfolio.currency
+  pk: 652
+  fields: {code: VOYA, name: VOYA, crypto: true}
+- model: portfolio.currency
+  pk: 653
+  fields: {code: DCC, name: DCC, crypto: true}
+- model: portfolio.currency
+  pk: 654
+  fields: {code: ALIEN, name: ALIEN, crypto: true}
+- model: portfolio.currency
+  pk: 655
+  fields: {code: RIO, name: RIO, crypto: true}
+- model: portfolio.currency
+  pk: 656
+  fields: {code: LDOGE, name: LiteDoge, crypto: true}
+- model: portfolio.currency
+  pk: 657
+  fields: {code: UXC, name: UXC, crypto: true}
+- model: portfolio.currency
+  pk: 658
+  fields: {code: MXT, name: MarteXcoin, crypto: true}
+- model: portfolio.currency
+  pk: 659
+  fields: {code: DCT, name: DCT, crypto: true}
+- model: portfolio.currency
+  pk: 660
+  fields: {code: LEPEN, name: LEPEN, crypto: true}
+- model: portfolio.currency
+  pk: 661
+  fields: {code: DCR, name: Decred, crypto: true}
+- model: portfolio.currency
+  pk: 662
+  fields: {code: RIC, name: Riecoin, crypto: true}
+- model: portfolio.currency
+  pk: 663
+  fields: {code: ZENI, name: ZENI, crypto: true}
+- model: portfolio.currency
+  pk: 664
+  fields: {code: OMC, name: OMC, crypto: true}
+- model: portfolio.currency
+  pk: 665
+  fields: {code: YOVI, name: YOVI, crypto: true}
+- model: portfolio.currency
+  pk: 666
+  fields: {code: UNRC, name: UNRC, crypto: true}
+- model: portfolio.currency
+  pk: 667
+  fields: {code: GLUCK, name: GLUCK, crypto: true}
+- model: portfolio.currency
+  pk: 668
+  fields: {code: SONG, name: SongCoin, crypto: true}
+- model: portfolio.currency
+  pk: 669
+  fields: {code: BOST, name: BoostCoin, crypto: true}
+- model: portfolio.currency
+  pk: 670
+  fields: {code: RISE, name: RISE, crypto: true}
+- model: portfolio.currency
+  pk: 671
+  fields: {code: THS, name: THS, crypto: true}
+- model: portfolio.currency
+  pk: 672
+  fields: {code: BOSS, name: BOSS, crypto: true}
+- model: portfolio.currency
+  pk: 673
+  fields: {code: DASH, name: Dash, crypto: true}
+- model: portfolio.currency
+  pk: 674
+  fields: {code: SIGU, name: SIGU, crypto: true}
+- model: portfolio.currency
+  pk: 675
+  fields: {code: BSTAR, name: BSTAR, crypto: true}
+- model: portfolio.currency
+  pk: 676
+  fields: {code: ZCOIN, name: ZCOIN, crypto: true}
+- model: portfolio.currency
+  pk: 677
+  fields: {code: GPU, name: GPU, crypto: true}
+- model: portfolio.currency
+  pk: 678
+  fields: {code: VAPOR, name: VAPOR, crypto: true}
+- model: portfolio.currency
+  pk: 679
+  fields: {code: THC, name: THC, crypto: true}
+- model: portfolio.currency
+  pk: 680
+  fields: {code: STP, name: STP, crypto: true}
+- model: portfolio.currency
+  pk: 681
+  fields: {code: XID, name: XID, crypto: true}
+- model: portfolio.currency
+  pk: 682
+  fields: {code: '365', name: '365', crypto: true}
+- model: portfolio.currency
+  pk: 683
+  fields: {code: MEC, name: Megacoin, crypto: true}
+- model: portfolio.currency
+  pk: 684
+  fields: {code: BURST, name: Burst, crypto: true}
+- model: portfolio.currency
+  pk: 685
+  fields: {code: ZEIT, name: Zeitcoin, crypto: true}
+- model: portfolio.currency
+  pk: 686
+  fields: {code: NIC, name: NIC, crypto: true}
+- model: portfolio.currency
+  pk: 687
+  fields: {code: X2C, name: X2C, crypto: true}
+- model: portfolio.currency
+  pk: 688
+  fields: {code: GEN, name: Genstake, crypto: true}
+- model: portfolio.currency
+  pk: 689
+  fields: {code: SYS, name: Syscoin, crypto: true}
+- model: portfolio.currency
+  pk: 690
+  fields: {code: QWARK, name: QWARK, crypto: true}
+- model: portfolio.currency
+  pk: 691
+  fields: {code: NAV, name: NAV Coin, crypto: true}
+- model: portfolio.currency
+  pk: 692
+  fields: {code: 'YES', name: 'YES', crypto: true}
+- model: portfolio.currency
+  pk: 693
+  fields: {code: VAL, name: VAL, crypto: true}
+- model: portfolio.currency
+  pk: 694
+  fields: {code: EME, name: EME, crypto: true}
+- model: portfolio.currency
+  pk: 695
+  fields: {code: GBG, name: GBG, crypto: true}
+- model: portfolio.currency
+  pk: 696
+  fields: {code: DMC, name: DMC, crypto: true}
+- model: portfolio.currency
+  pk: 697
+  fields: {code: JOBS, name: JOBS, crypto: true}
+- model: portfolio.currency
+  pk: 698
+  fields: {code: GBC, name: GBC, crypto: true}
+- model: portfolio.currency
+  pk: 699
+  fields: {code: EMC, name: Emercoin, crypto: true}
+- model: portfolio.currency
+  pk: 700
+  fields: {code: EMB, name: EMB, crypto: true}
+- model: portfolio.currency
+  pk: 701
+  fields: {code: NAUT, name: Nautiluscoin, crypto: true}
+- model: portfolio.currency
+  pk: 702
+  fields: {code: CRX, name: CRX, crypto: true}
+- model: portfolio.currency
+  pk: 703
+  fields: {code: ODNT, name: ODNT, crypto: true}
+- model: portfolio.currency
+  pk: 704
+  fields: {code: CRB, name: Creditbit, crypto: true}
+- model: portfolio.currency
+  pk: 705
+  fields: {code: GBT, name: GameBet Coin, crypto: true}
+- model: portfolio.currency
+  pk: 706
+  fields: {code: EMP, name: EMP, crypto: true}
+- model: portfolio.currency
+  pk: 707
+  fields: {code: SYNX, name: SYNX, crypto: true}
+- model: portfolio.currency
+  pk: 708
+  fields: {code: SKB, name: SKB, crypto: true}
+- model: portfolio.currency
+  pk: 709
+  fields: {code: TRST, name: TRST, crypto: true}
+- model: portfolio.currency
+  pk: 710
+  fields: {code: ZNY, name: ZNY, crypto: true}
+- model: portfolio.currency
+  pk: 711
+  fields: {code: AEO, name: AEO, crypto: true}
+- model: portfolio.currency
+  pk: 712
+  fields: {code: LDC, name: LDC, crypto: true}
+- model: portfolio.currency
+  pk: 713
+  fields: {code: XDE, name: XDE, crypto: true}
+- model: portfolio.currency
+  pk: 714
+  fields: {code: XDB, name: XDB, crypto: true}
+- model: portfolio.currency
+  pk: 715
+  fields: {code: TCX, name: TCX, crypto: true}
+- model: portfolio.currency
+  pk: 716
+  fields: {code: XDN, name: DigitalNote, crypto: true}
+- model: portfolio.currency
+  pk: 717
+  fields: {code: RIDE, name: RIDE, crypto: true}
+- model: portfolio.currency
+  pk: 718
+  fields: {code: TCR, name: TCR, crypto: true}
+- model: portfolio.currency
+  pk: 719
+  fields: {code: SOUL, name: SOUL, crypto: true}
+- model: portfolio.currency
+  pk: 720
+  fields: {code: PC, name: Pinkcoin, crypto: true}
+- model: portfolio.currency
+  pk: 721
+  fields: {code: BUB, name: BUB, crypto: true}
+- model: portfolio.currency
+  pk: 722
+  fields: {code: BRK, name: BRK, crypto: true}
+- model: portfolio.currency
+  pk: 723
+  fields: {code: SMSR, name: SMSR, crypto: true}
+- model: portfolio.currency
+  pk: 724
+  fields: {code: GEO, name: GeoCoin, crypto: true}
+- model: portfolio.currency
+  pk: 725
+  fields: {code: MALC, name: MALC, crypto: true}
+- model: portfolio.currency
+  pk: 726
+  fields: {code: BOOM, name: BOOM, crypto: true}
+- model: portfolio.currency
+  pk: 727
+  fields: {code: SCASH, name: SCASH, crypto: true}
+- model: portfolio.currency
+  pk: 728
+  fields: {code: PRE, name: PRE, crypto: true}
+- model: portfolio.currency
+  pk: 729
+  fields: {code: LIMX, name: LIMX, crypto: true}
+- model: portfolio.currency
+  pk: 730
+  fields: {code: ZET, name: Zetacoin, crypto: true}
+- model: portfolio.currency
+  pk: 731
+  fields: {code: CLUB, name: CLUB, crypto: true}
+- model: portfolio.currency
+  pk: 732
+  fields: {code: VNTX, name: VNTX, crypto: true}
+- model: portfolio.currency
+  pk: 733
+  fields: {code: XRA, name: RateCoin, crypto: true}
+- model: portfolio.currency
+  pk: 734
+  fields: {code: RAD, name: RAD, crypto: true}
+- model: portfolio.currency
+  pk: 735
+  fields: {code: CLUD, name: CLUD, crypto: true}
+- model: portfolio.currency
+  pk: 736
+  fields: {code: 9COIN, name: 9COIN, crypto: true}
+- model: portfolio.currency
+  pk: 737
+  fields: {code: COIN, name: COIN, crypto: true}
+- model: portfolio.currency
+  pk: 738
+  fields: {code: DGMS, name: DGMS, crypto: true}
+- model: portfolio.currency
+  pk: 739
+  fields: {code: EFL, name: Electronic Gulden, crypto: true}
+- model: portfolio.currency
+  pk: 740
+  fields: {code: XRC, name: XRC, crypto: true}
+- model: portfolio.currency
+  pk: 741
+  fields: {code: FUNC, name: FUNC, crypto: true}
+- model: portfolio.currency
+  pk: 742
+  fields: {code: VISIO, name: VISIO, crypto: true}
+- model: portfolio.currency
+  pk: 743
+  fields: {code: DDC, name: DDC, crypto: true}
+- model: portfolio.currency
+  pk: 744
+  fields: {code: XRP, name: Ripple, crypto: true}
+- model: portfolio.currency
+  pk: 745
+  fields: {code: TODAY, name: TODAY, crypto: true}
+- model: portfolio.currency
+  pk: 746
+  fields: {code: LEA, name: LeaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 747
+  fields: {code: LDCN, name: LDCN, crypto: true}
+- model: portfolio.currency
+  pk: 748
+  fields: {code: PRC, name: PRC, crypto: true}
+- model: portfolio.currency
+  pk: 749
+  fields: {code: ANC, name: Anoncoin, crypto: true}
+- model: portfolio.currency
+  pk: 750
+  fields: {code: TESLA, name: TESLA, crypto: true}
+- model: portfolio.currency
+  pk: 751
+  fields: {code: FRST, name: FRST, crypto: true}
+- model: portfolio.currency
+  pk: 752
+  fields: {code: XEMP, name: XEMP, crypto: true}
+- model: portfolio.currency
+  pk: 753
+  fields: {code: STRP, name: STRP, crypto: true}
+- model: portfolio.currency
+  pk: 754
+  fields: {code: NTCC, name: NTCC, crypto: true}
+- model: portfolio.currency
+  pk: 755
+  fields: {code: SJCX, name: Storjcoin X, crypto: true}
+- model: portfolio.currency
+  pk: 756
+  fields: {code: FURY, name: FURY, crypto: true}
+- model: portfolio.currency
+  pk: 757
+  fields: {code: SCRPT, name: SCRPT, crypto: true}
+- model: portfolio.currency
+  pk: 758
+  fields: {code: BEEP, name: BEEP, crypto: true}
+- model: portfolio.currency
+  pk: 759
+  fields: {code: SPR, name: SpreadCoin, crypto: true}
+- model: portfolio.currency
+  pk: 760
+  fields: {code: NVC, name: Novacoin, crypto: true}
+- model: portfolio.currency
+  pk: 761
+  fields: {code: ANS, name: ANS, crypto: true}
+- model: portfolio.currency
+  pk: 762
+  fields: {code: STRB, name: STRB, crypto: true}
+- model: portfolio.currency
+  pk: 763
+  fields: {code: KURT, name: KURT, crypto: true}
+- model: portfolio.currency
+  pk: 764
+  fields: {code: GABC, name: GABC, crypto: true}
+- model: portfolio.currency
+  pk: 765
+  fields: {code: WINE, name: WINE, crypto: true}
+- model: portfolio.currency
+  pk: 766
+  fields: {code: XMT, name: XMT, crypto: true}
+- model: portfolio.currency
+  pk: 767
+  fields: {code: ETP, name: ETP, crypto: true}
+- model: portfolio.currency
+  pk: 768
+  fields: {code: KMD, name: KMD, crypto: true}
+- model: portfolio.currency
+  pk: 769
+  fields: {code: BTCHC, name: BTCHC, crypto: true}
+- model: portfolio.currency
+  pk: 770
+  fields: {code: ILC, name: ILC, crypto: true}
+- model: portfolio.currency
+  pk: 771
+  fields: {code: COV, name: COV, crypto: true}
+- model: portfolio.currency
+  pk: 772
+  fields: {code: COX, name: COX, crypto: true}
+- model: portfolio.currency
+  pk: 773
+  fields: {code: ETX, name: ETX, crypto: true}
+- model: portfolio.currency
+  pk: 774
+  fields: {code: MSCN, name: MSCN, crypto: true}
+- model: portfolio.currency
+  pk: 775
+  fields: {code: FSN, name: FSN, crypto: true}
+- model: portfolio.currency
+  pk: 776
+  fields: {code: BCC, name: Bitconnect Coin, crypto: true}
+- model: portfolio.currency
+  pk: 777
+  fields: {code: ETC, name: Ethereum Classic, crypto: true}
+- model: portfolio.currency
+  pk: 778
+  fields: {code: COC, name: COC, crypto: true}
+- model: portfolio.currency
+  pk: 779
+  fields: {code: NBIT, name: NBIT, crypto: true}
+- model: portfolio.currency
+  pk: 780
+  fields: {code: FST, name: FST, crypto: true}
+- model: portfolio.currency
+  pk: 781
+  fields: {code: BCY, name: Bitcrystals, crypto: true}
+- model: portfolio.currency
+  pk: 782
+  fields: {code: FIST, name: FIST, crypto: true}
+- model: portfolio.currency
+  pk: 783
+  fields: {code: BCU, name: BCU, crypto: true}
+- model: portfolio.currency
+  pk: 784
+  fields: {code: ETH, name: Ethereum, crypto: true}
+- model: portfolio.currency
+  pk: 785
+  fields: {code: CON, name: CON, crypto: true}
+- model: portfolio.currency
+  pk: 786
+  fields: {code: DSH, name: Dashcoin, crypto: true}
+- model: portfolio.currency
+  pk: 787
+  fields: {code: DETH, name: DETH, crypto: true}
+- model: portfolio.currency
+  pk: 788
+  fields: {code: YAC, name: Yacoin, crypto: true}
+- model: portfolio.currency
+  pk: 789
+  fields: {code: PWR, name: PWR, crypto: true}
+- model: portfolio.currency
+  pk: 790
+  fields: {code: SPT, name: SPT, crypto: true}
+- model: portfolio.currency
+  pk: 791
+  fields: {code: VRC, name: VeriCoin, crypto: true}
+- model: portfolio.currency
+  pk: 792
+  fields: {code: UNIT, name: Universal Currency, crypto: true}
+- model: portfolio.currency
+  pk: 793
+  fields: {code: BLRY, name: BLRY, crypto: true}
+- model: portfolio.currency
+  pk: 794
+  fields: {code: VRM, name: VRM, crypto: true}
+- model: portfolio.currency
+  pk: 795
+  fields: {code: CJ, name: CJ, crypto: true}
+- model: portfolio.currency
+  pk: 796
+  fields: {code: GTFO, name: GTFO, crypto: true}
+- model: portfolio.currency
+  pk: 797
+  fields: {code: TP1, name: TP1, crypto: true}
+- model: portfolio.currency
+  pk: 798
+  fields: {code: FAIR, name: Faircoin, crypto: true}
+- model: portfolio.currency
+  pk: 799
+  fields: {code: DIME, name: Dimecoin, crypto: true}
+- model: portfolio.currency
+  pk: 800
+  fields: {code: CC, name: CC, crypto: true}
+- model: portfolio.currency
+  pk: 801
+  fields: {code: CB, name: CB, crypto: true}
+- model: portfolio.currency
+  pk: 802
+  fields: {code: XMG, name: Magi, crypto: true}
+- model: portfolio.currency
+  pk: 803
+  fields: {code: CG, name: CG, crypto: true}
+- model: portfolio.currency
+  pk: 804
+  fields: {code: CF, name: CF, crypto: true}
+- model: portfolio.currency
+  pk: 805
+  fields: {code: AGRS, name: Agoras Tokens, crypto: true}
+- model: portfolio.currency
+  pk: 806
+  fields: {code: SEQ, name: SEQ, crypto: true}
+- model: portfolio.currency
+  pk: 807
+  fields: {code: SBIT, name: SBIT, crypto: true}
+- model: portfolio.currency
+  pk: 808
+  fields: {code: POKE, name: POKE, crypto: true}
+- model: portfolio.currency
+  pk: 809
+  fields: {code: TBT, name: TBT, crypto: true}
+- model: portfolio.currency
+  pk: 810
+  fields: {code: WAY, name: WAY, crypto: true}
+- model: portfolio.currency
+  pk: 811
+  fields: {code: KRB, name: KRB, crypto: true}
+- model: portfolio.currency
+  pk: 812
+  fields: {code: MOIN, name: MOIN, crypto: true}
+- model: portfolio.currency
+  pk: 813
+  fields: {code: EVIL, name: EVIL, crypto: true}
+- model: portfolio.currency
+  pk: 814
+  fields: {code: GROW, name: GrowCoin, crypto: true}
+- model: portfolio.currency
+  pk: 815
+  fields: {code: XMR, name: Monero, crypto: true}
+- model: portfolio.currency
+  pk: 816
+  fields: {code: XMS, name: XMS, crypto: true}
+- model: portfolio.currency
+  pk: 817
+  fields: {code: CCRB, name: CCRB, crypto: true}
+- model: portfolio.currency
+  pk: 818
+  fields: {code: BTTF, name: BTTF, crypto: true}
+- model: portfolio.currency
+  pk: 819
+  fields: {code: SNRG, name: SNRG, crypto: true}
+- model: portfolio.currency
+  pk: 820
+  fields: {code: CANN, name: CannabisCoin, crypto: true}
+- model: portfolio.currency
+  pk: 821
+  fields: {code: DRACO, name: DRACO, crypto: true}
+- model: portfolio.currency
+  pk: 822
+  fields: {code: CDN, name: CDN, crypto: true}
+- model: portfolio.currency
+  pk: 823
+  fields: {code: BILL, name: BILL, crypto: true}
+- model: portfolio.currency
+  pk: 824
+  fields: {code: LUCKY, name: LUCKY, crypto: true}
+- model: portfolio.currency
+  pk: 825
+  fields: {code: PSB, name: PSB, crypto: true}
+- model: portfolio.currency
+  pk: 826
+  fields: {code: NMC, name: Namecoin, crypto: true}
+- model: portfolio.currency
+  pk: 827
+  fields: {code: RUR, name: Ruble, crypto: true}
+- model: portfolio.currency
+  pk: 828
+  fields: {code: TELL, name: TELL, crypto: true}
+- model: portfolio.currency
+  pk: 829
+  fields: {code: PRES, name: PRES, crypto: true}
+- model: portfolio.currency
+  pk: 830
+  fields: {code: TPG, name: TPG, crypto: true}
+- model: portfolio.currency
+  pk: 831
+  fields: {code: FRWC, name: FRWC, crypto: true}
+- model: portfolio.currency
+  pk: 832
+  fields: {code: LOG, name: Woodcoin, crypto: true}
+- model: portfolio.currency
+  pk: 833
+  fields: {code: GNT, name: GNT, crypto: true}
+- model: portfolio.currency
+  pk: 834
+  fields: {code: SCAN, name: SCAN, crypto: true}
+- model: portfolio.currency
+  pk: 835
+  fields: {code: RUBIT, name: RUBIT, crypto: true}
+- model: portfolio.currency
+  pk: 836
+  fields: {code: BXT, name: BXT, crypto: true}
+- model: portfolio.currency
+  pk: 837
+  fields: {code: AIR, name: AIR, crypto: true}
+- model: portfolio.currency
+  pk: 838
+  fields: {code: XOT, name: XOT, crypto: true}
+- model: portfolio.currency
+  pk: 839
+  fields: {code: WASH, name: WASH, crypto: true}
+- model: portfolio.currency
+  pk: 840
+  fields: {code: RCN, name: RCN, crypto: true}
+- model: portfolio.currency
+  pk: 841
+  fields: {code: RADI, name: RADI, crypto: true}
+- model: portfolio.currency
+  pk: 842
+  fields: {code: EB3, name: EB3, crypto: true}
+- model: portfolio.currency
+  pk: 843
+  fields: {code: ARCO, name: ARCO, crypto: true}
+- model: portfolio.currency
+  pk: 844
+  fields: {code: SHREK, name: SHREK, crypto: true}
+- model: portfolio.currency
+  pk: 845
+  fields: {code: GNO, name: GNO, crypto: true}
+- model: portfolio.currency
+  pk: 846
+  fields: {code: PIZZA, name: PIZZA, crypto: true}
+- model: portfolio.currency
+  pk: 847
+  fields: {code: MBL, name: MBL, crypto: true}
+- model: portfolio.currency
+  pk: 848
+  fields: {code: SC, name: Siacoin, crypto: true}
+- model: portfolio.currency
+  pk: 849
+  fields: {code: ICON, name: ICON, crypto: true}
+- model: portfolio.currency
+  pk: 850
+  fields: {code: XPY, name: Paycoin, crypto: true}
+- model: portfolio.currency
+  pk: 851
+  fields: {code: TCOIN, name: TCOIN, crypto: true}
+- model: portfolio.currency
+  pk: 852
+  fields: {code: VPRC, name: VPRC, crypto: true}
+- model: portfolio.currency
+  pk: 853
+  fields: {code: TERA, name: TERA, crypto: true}
+- model: portfolio.currency
+  pk: 854
+  fields: {code: QCN, name: QCN, crypto: true}
+- model: portfolio.currency
+  pk: 855
+  fields: {code: DGCS, name: DGCS, crypto: true}
+- model: portfolio.currency
+  pk: 856
+  fields: {code: GAM, name: GAM, crypto: true}
+- model: portfolio.currency
+  pk: 857
+  fields: {code: PSY, name: PSY, crypto: true}
+- model: portfolio.currency
+  pk: 858
+  fields: {code: VEC2, name: VEC2, crypto: true}
+- model: portfolio.currency
+  pk: 859
+  fields: {code: DBIX, name: DBIX, crypto: true}
+- model: portfolio.currency
+  pk: 860
+  fields: {code: BUCKS, name: BUCKS, crypto: true}
+- model: portfolio.currency
+  pk: 861
+  fields: {code: QRZ, name: QRZ, crypto: true}
+- model: portfolio.currency
+  pk: 862
+  fields: {code: OLYMP, name: OLYMP, crypto: true}
+- model: portfolio.currency
+  pk: 863
+  fields: {code: IBANK, name: IBANK, crypto: true}
+- model: portfolio.currency
+  pk: 864
+  fields: {code: ASAFE, name: ASAFE, crypto: true}
+- model: portfolio.currency
+  pk: 865
+  fields: {code: GBYTE, name: Byteball, crypto: true}
+- model: portfolio.currency
+  pk: 866
+  fields: {code: UTA, name: UTA, crypto: true}
+- model: portfolio.currency
+  pk: 867
+  fields: {code: YOG, name: YOG, crypto: true}
+- model: portfolio.currency
+  pk: 868
+  fields: {code: XVP, name: XVP, crypto: true}
+- model: portfolio.currency
+  pk: 869
+  fields: {code: XVS, name: XVS, crypto: true}
+- model: portfolio.currency
+  pk: 870
+  fields: {code: BUZZ, name: BUZZ, crypto: true}
+- model: portfolio.currency
+  pk: 871
+  fields: {code: YOC, name: YOC, crypto: true}
+- model: portfolio.currency
+  pk: 872
+  fields: {code: CESC, name: CryptoEscudo, crypto: true}
+- model: portfolio.currency
+  pk: 873
+  fields: {code: IW, name: IW, crypto: true}
+- model: portfolio.currency
+  pk: 874
+  fields: {code: LVG, name: LVG, crypto: true}
+- model: portfolio.currency
+  pk: 875
+  fields: {code: CYP, name: Cypher, crypto: true}
+- model: portfolio.currency
+  pk: 876
+  fields: {code: '007', name: '007', crypto: true}
+- model: portfolio.currency
+  pk: 877
+  fields: {code: HTML5, name: HTMLCOIN, crypto: true}
+- model: portfolio.currency
+  pk: 878
+  fields: {code: IN, name: IN, crypto: true}
+- model: portfolio.currency
+  pk: 879
+  fields: {code: HPC, name: HPC, crypto: true}
+- model: portfolio.currency
+  pk: 880
+  fields: {code: XVC, name: Vcash, crypto: true}
+- model: portfolio.currency
+  pk: 881
+  fields: {code: XVE, name: XVE, crypto: true}
+- model: portfolio.currency
+  pk: 882
+  fields: {code: XVG, name: Verge, crypto: true}
+- model: portfolio.currency
+  pk: 883
+  fields: {code: SDT, name: SDT, crypto: true}
+- model: portfolio.currency
+  pk: 884
+  fields: {code: SDP, name: SydPak Coin, crypto: true}
+- model: portfolio.currency
+  pk: 885
+  fields: {code: LGBTQ, name: LGBTQ, crypto: true}
+- model: portfolio.currency
+  pk: 886
+  fields: {code: CV2, name: Colossuscoin2.0, crypto: true}
+- model: portfolio.currency
+  pk: 887
+  fields: {code: EBT, name: EBT, crypto: true}
+- model: portfolio.currency
+  pk: 888
+  fields: {code: ARB, name: ARB, crypto: true}
+- model: portfolio.currency
+  pk: 889
+  fields: {code: ARDR, name: ARDR, crypto: true}
+- model: portfolio.currency
+  pk: 890
+  fields: {code: ARD, name: ARD, crypto: true}
+- model: portfolio.currency
+  pk: 891
+  fields: {code: ARE, name: ARE, crypto: true}
+- model: portfolio.currency
+  pk: 892
+  fields: {code: PURE, name: PURE, crypto: true}
+- model: portfolio.currency
+  pk: 893
+  fields: {code: SDC, name: ShadowCash, crypto: true}
+- model: portfolio.currency
+  pk: 894
+  fields: {code: ARH, name: ARH, crypto: true}
+- model: portfolio.currency
+  pk: 895
+  fields: {code: TRUST, name: TRUST, crypto: true}
+- model: portfolio.currency
+  pk: 896
+  fields: {code: VLTC, name: VLTC, crypto: true}
+- model: portfolio.currency
+  pk: 897
+  fields: {code: ZYD, name: ZayedCoin, crypto: true}
+- model: portfolio.currency
+  pk: 898
+  fields: {code: WDC, name: Worldcoin, crypto: true}
+- model: portfolio.currency
+  pk: 899
+  fields: {code: TIX, name: Tickets, crypto: true}
+- model: portfolio.currency
+  pk: 900
+  fields: {code: CCX, name: CCX, crypto: true}
+- model: portfolio.currency
+  pk: 901
+  fields: {code: PARA, name: PARA, crypto: true}
+- model: portfolio.currency
+  pk: 902
+  fields: {code: EPY, name: EPY, crypto: true}
+- model: portfolio.currency
+  pk: 903
+  fields: {code: GSY, name: GSY, crypto: true}
+- model: portfolio.currency
+  pk: 904
+  fields: {code: XJO, name: XJO, crypto: true}
+- model: portfolio.currency
+  pk: 905
+  fields: {code: BOS, name: BOS, crypto: true}
+- model: portfolio.currency
+  pk: 906
+  fields: {code: BCN, name: Bytecoin, crypto: true}
+- model: portfolio.currency
+  pk: 907
+  fields: {code: TIM, name: TIM, crypto: true}
+- model: portfolio.currency
+  pk: 908
+  fields: {code: XMINE, name: XMINE, crypto: true}
+- model: portfolio.currency
+  pk: 909
+  fields: {code: CHESS, name: CHESS, crypto: true}
+- model: portfolio.currency
+  pk: 910
+  fields: {code: BON, name: BON, crypto: true}
+- model: portfolio.currency
+  pk: 911
+  fields: {code: BS, name: BS, crypto: true}
+- model: portfolio.currency
+  pk: 912
+  fields: {code: DRA, name: DRA, crypto: true}
+- model: portfolio.currency
+  pk: 913
+  fields: {code: HBT, name: HBT, crypto: true}
+- model: portfolio.currency
+  pk: 914
+  fields: {code: GSM, name: GSM, crypto: true}
+- model: portfolio.currency
+  pk: 915
+  fields: {code: LOC, name: LOC, crypto: true}
+- model: portfolio.currency
+  pk: 916
+  fields: {code: CCB, name: CCB, crypto: true}
+- model: portfolio.currency
+  pk: 917
+  fields: {code: LUN, name: LUN, crypto: true}
+- model: portfolio.currency
+  pk: 918
+  fields: {code: SHELL, name: SHELL, crypto: true}
+- model: portfolio.currency
+  pk: 919
+  fields: {code: PIO, name: PIO, crypto: true}
+- model: portfolio.currency
+  pk: 920
+  fields: {code: SWEET, name: SWEET, crypto: true}
+- model: portfolio.currency
+  pk: 921
+  fields: {code: PIE, name: PIE, crypto: true}
+- model: portfolio.currency
+  pk: 922
+  fields: {code: IOP, name: IOP, crypto: true}
+- model: portfolio.currency
+  pk: 923
+  fields: {code: HVCO, name: HVCO, crypto: true}
+- model: portfolio.currency
+  pk: 924
+  fields: {code: ION, name: ION, crypto: true}
+- model: portfolio.currency
+  pk: 925
+  fields: {code: UIS, name: UIS, crypto: true}
+- model: portfolio.currency
+  pk: 926
+  fields: {code: RHFC, name: RHFC, crypto: true}
+- model: portfolio.currency
+  pk: 927
+  fields: {code: MRB, name: MRB, crypto: true}
+- model: portfolio.currency
+  pk: 928
+  fields: {code: DRM8, name: DRM8, crypto: true}
+- model: portfolio.currency
+  pk: 929
+  fields: {code: IOC, name: IO Coin, crypto: true}
+- model: portfolio.currency
+  pk: 930
+  fields: {code: HKG, name: HKG, crypto: true}
+- model: portfolio.currency
+  pk: 931
+  fields: {code: TROLL, name: TROLL, crypto: true}
+- model: portfolio.currency
+  pk: 932
+  fields: {code: NXT, name: NXT, crypto: true}
+- model: portfolio.currency
+  pk: 933
+  fields: {code: CNNC, name: CNNC, crypto: true}
+- model: portfolio.currency
+  pk: 934
+  fields: {code: ILM, name: ILM, crypto: true}
+- model: portfolio.currency
+  pk: 935
+  fields: {code: NXS, name: Nexus, crypto: true}
+- model: portfolio.currency
+  pk: 936
+  fields: {code: KRAK, name: KRAK, crypto: true}
+- model: portfolio.currency
+  pk: 937
+  fields: {code: REV, name: Revenu, crypto: true}
+- model: portfolio.currency
+  pk: 938
+  fields: {code: DAS, name: DAS, crypto: true}
+- model: portfolio.currency
+  pk: 939
+  fields: {code: XAU, name: Xaurum, crypto: true}
+- model: portfolio.currency
+  pk: 940
+  fields: {code: XAV, name: XAV, crypto: true}
+- model: portfolio.currency
+  pk: 941
+  fields: {code: NXE, name: NXE, crypto: true}
+- model: portfolio.currency
+  pk: 942
+  fields: {code: XSPEC, name: XSPEC, crypto: true}
+- model: portfolio.currency
+  pk: 943
+  fields: {code: P7C, name: P7C, crypto: true}
+- model: portfolio.currency
+  pk: 944
+  fields: {code: NXC, name: NXC, crypto: true}
+- model: portfolio.currency
+  pk: 945
+  fields: {code: WMC, name: WMC, crypto: true}
+- model: portfolio.currency
+  pk: 946
+  fields: {code: PARTY, name: PARTY, crypto: true}
+- model: portfolio.currency
+  pk: 947
+  fields: {code: TIPS, name: Fedoracoin, crypto: true}
+- model: portfolio.currency
+  pk: 948
+  fields: {code: NLC2, name: NLC2, crypto: true}
+- model: portfolio.currency
+  pk: 949
+  fields: {code: OK, name: OKCash, crypto: true}
+- model: portfolio.currency
+  pk: 950
+  fields: {code: UBQ, name: UBQ, crypto: true}
+- model: portfolio.currency
+  pk: 951
+  fields: {code: 2GIVE, name: 2GIVE, crypto: true}
+- model: portfolio.currency
+  pk: 952
+  fields: {code: HNC, name: HNC, crypto: true}
+- model: portfolio.currency
+  pk: 953
+  fields: {code: OD, name: OD, crypto: true}
+- model: portfolio.currency
+  pk: 954
+  fields: {code: COVAL, name: COVAL, crypto: true}
+- model: portfolio.currency
+  pk: 955
+  fields: {code: BVC, name: BVC, crypto: true}
+- model: portfolio.currency
+  pk: 956
+  fields: {code: MAID, name: MaidSafeCoin, crypto: true}
+- model: portfolio.currency
+  pk: 957
+  fields: {code: NTRN, name: Neutron, crypto: true}
+- model: portfolio.currency
+  pk: 958
+  fields: {code: TMC, name: TMC, crypto: true}
+- model: portfolio.currency
+  pk: 959
+  fields: {code: B2, name: B2, crypto: true}
+- model: portfolio.currency
+  pk: 960
+  fields: {code: B3, name: B3, crypto: true}
+- model: portfolio.currency
+  pk: 961
+  fields: {code: SQC, name: Squall Coin, crypto: true}
+- model: portfolio.currency
+  pk: 962
+  fields: {code: BTCRY, name: BTCRY, crypto: true}
+- model: portfolio.currency
+  pk: 963
+  fields: {code: ICASH, name: iCash, crypto: true}
+- model: portfolio.currency
+  pk: 964
+  fields: {code: CS, name: CS, crypto: true}
+- model: portfolio.currency
+  pk: 965
+  fields: {code: FLX, name: FLX, crypto: true}
+- model: portfolio.currency
+  pk: 966
+  fields: {code: XSP, name: XSP, crypto: true}
+- model: portfolio.currency
+  pk: 967
+  fields: {code: LVPS, name: LVPS, crypto: true}
+- model: portfolio.currency
+  pk: 968
+  fields: {code: XST, name: Stealthcoin, crypto: true}
+- model: portfolio.currency
+  pk: 969
+  fields: {code: BATL, name: BATL, crypto: true}
+- model: portfolio.currency
+  pk: 970
+  fields: {code: EBST, name: EBST, crypto: true}
+- model: portfolio.currency
+  pk: 971
+  fields: {code: LKC, name: LKC, crypto: true}
+- model: portfolio.currency
+  pk: 972
+  fields: {code: SWCO, name: SWCO, crypto: true}
+- model: portfolio.currency
+  pk: 973
+  fields: {code: 32BIT, name: 32BIT, crypto: true}
+- model: portfolio.currency
+  pk: 974
+  fields: {code: HI, name: HI, crypto: true}
+- model: portfolio.currency
+  pk: 975
+  fields: {code: ZLQ, name: ZLQ, crypto: true}
+- model: portfolio.currency
+  pk: 976
+  fields: {code: DEM, name: Deutsche eMark, crypto: true}
+- model: portfolio.currency
+  pk: 977
+  fields: {code: FLO, name: Florincoin, crypto: true}
+- model: portfolio.currency
+  pk: 978
+  fields: {code: DEA, name: DEA, crypto: true}
+- model: portfolio.currency
+  pk: 979
+  fields: {code: ERC3, name: ERC3, crypto: true}
+- model: portfolio.currency
+  pk: 980
+  fields: {code: CTIC, name: CTIC, crypto: true}
+- model: portfolio.currency
+  pk: 981
+  fields: {code: BLOCK, name: Blocknet, crypto: true}
+- model: portfolio.currency
+  pk: 982
+  fields: {code: ICN, name: Iconomi, crypto: true}
+- model: portfolio.currency
+  pk: 983
+  fields: {code: KUSH, name: KUSH, crypto: true}
+- model: portfolio.currency
+  pk: 984
+  fields: {code: ACID, name: ACID, crypto: true}
+- model: portfolio.currency
+  pk: 985
+  fields: {code: RBY, name: Rubycoin, crypto: true}
+- model: portfolio.currency
+  pk: 986
+  fields: {code: SMC, name: SMC, crypto: true}
+- model: portfolio.currency
+  pk: 987
+  fields: {code: ESP, name: ESP, crypto: true}
+- model: portfolio.currency
+  pk: 988
+  fields: {code: PTC, name: PTC, crypto: true}
+- model: portfolio.currency
+  pk: 989
+  fields: {code: PTA, name: PTA, crypto: true}
+- model: portfolio.currency
+  pk: 990
+  fields: {code: UBIQ, name: Ubiquoin, crypto: true}
+- model: portfolio.currency
+  pk: 991
+  fields: {code: ADCN, name: Asiadigicoin, crypto: true}
+- model: portfolio.currency
+  pk: 992
+  fields: {code: PPC, name: Peercoin, crypto: true}
+- model: portfolio.currency
+  pk: 993
+  fields: {code: MNM, name: MNM, crypto: true}
+- model: portfolio.currency
+  pk: 994
+  fields: {code: FLDC, name: FoldingCoin, crypto: true}
+- model: portfolio.currency
+  pk: 995
+  fields: {code: SCT, name: SCT, crypto: true}
+- model: portfolio.currency
+  pk: 996
+  fields: {code: GACC, name: GACC, crypto: true}
+- model: portfolio.currency
+  pk: 997
+  fields: {code: REE, name: REE, crypto: true}
+- model: portfolio.currency
+  pk: 998
+  fields: {code: MND, name: MindCoin, crypto: true}
+- model: portfolio.currency
+  pk: 999
+  fields: {code: MNE, name: MNE, crypto: true}
+- model: portfolio.currency
+  pk: 1000
+  fields: {code: SCS, name: SCS, crypto: true}
+- model: portfolio.currency
+  pk: 1001
+  fields: {code: TAAS, name: TAAS, crypto: true}
+- model: portfolio.currency
+  pk: 1002
+  fields: {code: VRS, name: VRS, crypto: true}
+- model: portfolio.currency
+  pk: 1003
+  fields: {code: ELE, name: ELE, crypto: true}
+- model: portfolio.currency
+  pk: 1004
+  fields: {code: SWIFT, name: BitSwift, crypto: true}
+- model: portfolio.currency
+  pk: 1005
+  fields: {code: BDC, name: BDC, crypto: true}
+- model: portfolio.currency
+  pk: 1006
+  fields: {code: TRA, name: TRA, crypto: true}
+- model: portfolio.currency
+  pk: 1007
+  fields: {code: XBTS, name: XBTS, crypto: true}
+- model: portfolio.currency
+  pk: 1008
+  fields: {code: TRC, name: Terracoin, crypto: true}
+- model: portfolio.currency
+  pk: 1009
+  fields: {code: KOBO, name: KOBO, crypto: true}
+- model: portfolio.currency
+  pk: 1010
+  fields: {code: XZC, name: Zcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1011
+  fields: {code: WARP, name: WARP, crypto: true}
+- model: portfolio.currency
+  pk: 1012
+  fields: {code: SAK, name: SAK, crypto: true}
+- model: portfolio.currency
+  pk: 1013
+  fields: {code: ZBC, name: Zilbercoin, crypto: true}
+- model: portfolio.currency
+  pk: 1014
+  fields: {code: ZIRK, name: ZIRK, crypto: true}
+- model: portfolio.currency
+  pk: 1015
+  fields: {code: BERN, name: BERNcash, crypto: true}
+- model: portfolio.currency
+  pk: 1016
+  fields: {code: MMXVI, name: MMXVI, crypto: true}
+- model: portfolio.currency
+  pk: 1017
+  fields: {code: PCS, name: PCS, crypto: true}
+- model: portfolio.currency
+  pk: 1018
+  fields: {code: HTC, name: HTC, crypto: true}
+- model: portfolio.currency
+  pk: 1019
+  fields: {code: ZECD, name: ZECD, crypto: true}
+- model: portfolio.currency
+  pk: 1020
+  fields: {code: VOL, name: VOL, crypto: true}
+- model: portfolio.currency
+  pk: 1021
+  fields: {code: BIT16, name: BIT16, crypto: true}
+- model: portfolio.currency
+  pk: 1022
+  fields: {code: ENRG, name: Energycoin, crypto: true}
+- model: portfolio.currency
+  pk: 1023
+  fields: {code: FLVR, name: FLVR, crypto: true}
+- model: portfolio.currency
+  pk: 1024
+  fields: {code: HTS, name: HTS, crypto: true}
+- model: portfolio.currency
+  pk: 1025
+  fields: {code: COXST, name: CoExistCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1026
+  fields: {code: XCO, name: XCO, crypto: true}
+- model: portfolio.currency
+  pk: 1027
+  fields: {code: GMX, name: GMX, crypto: true}
+- model: portfolio.currency
+  pk: 1028
+  fields: {code: VOX, name: Voxels, crypto: true}
+- model: portfolio.currency
+  pk: 1029
+  fields: {code: GMCX, name: GMCX, crypto: true}
+- model: portfolio.currency
+  pk: 1030
+  fields: {code: IVZ, name: IVZ, crypto: true}
+- model: portfolio.currency
+  pk: 1031
+  fields: {code: ESB, name: ESB, crypto: true}
+- model: portfolio.currency
+  pk: 1032
+  fields: {code: ZUR, name: ZUR, crypto: true}
+- model: portfolio.currency
+  pk: 1033
+  fields: {code: OPES, name: OPES, crypto: true}
+- model: portfolio.currency
+  pk: 1034
+  fields: {code: EMPC, name: EMPC, crypto: true}
+- model: portfolio.currency
+  pk: 1035
+  fields: {code: HALLO, name: HALLO, crypto: true}
+- model: portfolio.currency
+  pk: 1036
+  fields: {code: NEF, name: NEF, crypto: true}
+- model: portfolio.currency
+  pk: 1037
+  fields: {code: XNX, name: XNX, crypto: true}
+- model: portfolio.currency
+  pk: 1038
+  fields: {code: NAT, name: NAT, crypto: true}
+- model: portfolio.currency
+  pk: 1039
+  fields: {code: ATOM, name: ATOM, crypto: true}
+- model: portfolio.currency
+  pk: 1040
+  fields: {code: ACN, name: ACN, crypto: true}
+- model: portfolio.currency
+  pk: 1041
+  fields: {code: XCRE, name: XCRE, crypto: true}
+- model: portfolio.currency
+  pk: 1042
+  fields: {code: XNC, name: XNC, crypto: true}
+- model: portfolio.currency
+  pk: 1043
+  fields: {code: ACP, name: ACP, crypto: true}
+- model: portfolio.currency
+  pk: 1044
+  fields: {code: XNG, name: XNG, crypto: true}
+- model: portfolio.currency
+  pk: 1045
+  fields: {code: STO, name: STO, crypto: true}
+- model: portfolio.currency
+  pk: 1046
+  fields: {code: RING, name: RING, crypto: true}
+- model: portfolio.currency
+  pk: 1047
+  fields: {code: SPKTR, name: SPKTR, crypto: true}
+- model: portfolio.currency
+  pk: 1048
+  fields: {code: RNC, name: RNC, crypto: true}
+- model: portfolio.currency
+  pk: 1049
+  fields: {code: TOOL, name: TOOL, crypto: true}
+- model: portfolio.currency
+  pk: 1050
+  fields: {code: SLG, name: Sterlingcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1051
+  fields: {code: 'NO', name: 'NO', crypto: true}
+- model: portfolio.currency
+  pk: 1052
+  fields: {code: XLTCG, name: XLTCG, crypto: true}
+- model: portfolio.currency
+  pk: 1053
+  fields: {code: TEC, name: TEC, crypto: true}
+- model: portfolio.currency
+  pk: 1054
+  fields: {code: METAL, name: METAL, crypto: true}
+- model: portfolio.currency
+  pk: 1055
+  fields: {code: GRAV, name: GRAV, crypto: true}
+- model: portfolio.currency
+  pk: 1056
+  fields: {code: NBT, name: NuBits, crypto: true}
+- model: portfolio.currency
+  pk: 1057
+  fields: {code: MCRN, name: MCRN, crypto: true}
+- model: portfolio.currency
+  pk: 1058
+  fields: {code: BIOS, name: BiosCrypto, crypto: true}
+- model: portfolio.currency
+  pk: 1059
+  fields: {code: CRAFT, name: CRAFT, crypto: true}
+- model: portfolio.currency
+  pk: 1060
+  fields: {code: TECH, name: TECH, crypto: true}
+- model: portfolio.currency
+  pk: 1061
+  fields: {code: GRAM, name: GRAM, crypto: true}
+- model: portfolio.currency
+  pk: 1062
+  fields: {code: LTH, name: LTH, crypto: true}
+- model: portfolio.currency
+  pk: 1063
+  fields: {code: TES, name: TeslaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1064
+  fields: {code: VPN, name: VPNCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1065
+  fields: {code: MEME, name: Memetic, crypto: true}
+- model: portfolio.currency
+  pk: 1066
+  fields: {code: BURN, name: BURN, crypto: true}
+- model: portfolio.currency
+  pk: 1067
+  fields: {code: SBT, name: SBT, crypto: true}
+- model: portfolio.currency
+  pk: 1068
+  fields: {code: GML, name: GML, crypto: true}
+- model: portfolio.currency
+  pk: 1069
+  fields: {code: STONK, name: STONK, crypto: true}
+- model: portfolio.currency
+  pk: 1070
+  fields: {code: ADZ, name: Adzcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1071
+  fields: {code: CLOAK, name: Cloakcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1072
+  fields: {code: RDD, name: Reddcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1073
+  fields: {code: ICOB, name: ICOB, crypto: true}
+- model: portfolio.currency
+  pk: 1074
+  fields: {code: ADC, name: ADC, crypto: true}
+- model: portfolio.currency
+  pk: 1075
+  fields: {code: C2, name: Coin2.1, crypto: true}
+- model: portfolio.currency
+  pk: 1076
+  fields: {code: VTR, name: VTR, crypto: true}
+- model: portfolio.currency
+  pk: 1077
+  fields: {code: AEON, name: Aeon, crypto: true}
+- model: portfolio.currency
+  pk: 1078
+  fields: {code: EDRC, name: EDRC, crypto: true}
+- model: portfolio.currency
+  pk: 1079
+  fields: {code: N7, name: N7, crypto: true}
+- model: portfolio.currency
+  pk: 1080
+  fields: {code: MED, name: MediterraneanCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1081
+  fields: {code: OZC, name: OZC, crypto: true}
+- model: portfolio.currency
+  pk: 1082
+  fields: {code: TRICK, name: TRICK, crypto: true}
+- model: portfolio.currency
+  pk: 1083
+  fields: {code: BRX, name: BRX, crypto: true}
+- model: portfolio.currency
+  pk: 1084
+  fields: {code: XEM, name: NEM, crypto: true}
+- model: portfolio.currency
+  pk: 1085
+  fields: {code: XFCX, name: XFCX, crypto: true}
+- model: portfolio.currency
+  pk: 1086
+  fields: {code: OPNC, name: OPNC, crypto: true}
+- model: portfolio.currency
+  pk: 1087
+  fields: {code: LEO, name: LEO, crypto: true}
+- model: portfolio.currency
+  pk: 1088
+  fields: {code: CIRC, name: CIRC, crypto: true}
+- model: portfolio.currency
+  pk: 1089
+  fields: {code: EXIT, name: EXIT, crypto: true}
+- model: portfolio.currency
+  pk: 1090
+  fields: {code: TALK, name: TALK, crypto: true}
+- model: portfolio.currency
+  pk: 1091
+  fields: {code: SSTC, name: SSTC, crypto: true}
+- model: portfolio.currency
+  pk: 1092
+  fields: {code: CREVA, name: CrevaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1093
+  fields: {code: BSC, name: BSC, crypto: true}
+- model: portfolio.currency
+  pk: 1094
+  fields: {code: WINGS, name: WINGS, crypto: true}
+- model: portfolio.currency
+  pk: 1095
+  fields: {code: PONZ2, name: PONZ2, crypto: true}
+- model: portfolio.currency
+  pk: 1096
+  fields: {code: ZBCN, name: ZBCN, crypto: true}
+- model: portfolio.currency
+  pk: 1097
+  fields: {code: BLAZR, name: BLAZR, crypto: true}
+- model: portfolio.currency
+  pk: 1098
+  fields: {code: USC, name: USC, crypto: true}
+- model: portfolio.currency
+  pk: 1099
+  fields: {code: SRC, name: SecureCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1100
+  fields: {code: NEWB, name: NEWB, crypto: true}
+- model: portfolio.currency
+  pk: 1101
+  fields: {code: MST, name: MST, crypto: true}
+- model: portfolio.currency
+  pk: 1102
+  fields: {code: VCOIN, name: VCOIN, crypto: true}
+- model: portfolio.currency
+  pk: 1103
+  fields: {code: TWO, name: TWO, crypto: true}
+- model: portfolio.currency
+  pk: 1104
+  fields: {code: SXC, name: Sexcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1105
+  fields: {code: BELA, name: BellaCoin, crypto: true}
+- model: portfolio.currency
+  pk: 1106
+  fields: {code: BRONZ, name: BRONZ, crypto: true}
+- model: portfolio.currency
+  pk: 1107
+  fields: {code: XWC, name: Whitecoin, crypto: true}
+- model: portfolio.currency
+  pk: 1108
+  fields: {code: OBITS, name: OBITS, crypto: true}
+- model: portfolio.currency
+  pk: 1109
+  fields: {code: OTX, name: OTX, crypto: true}
+- model: portfolio.currency
+  pk: 1110
+  fields: {code: XT, name: XT, crypto: true}
+- model: portfolio.currency
+  pk: 1111
+  fields: {code: TX, name: Transfercoin, crypto: true}
+- model: portfolio.currency
+  pk: 1112
+  fields: {code: BPOK, name: BPOK, crypto: true}
+- model: portfolio.currency
+  pk: 1113
+  fields: {code: EAC, name: Earthcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1114
+  fields: {code: AM, name: AM, crypto: true}
+- model: portfolio.currency
+  pk: 1115
+  fields: {code: ENTER, name: ENTER, crypto: true}
+- model: portfolio.currency
+  pk: 1116
+  fields: {code: FIND, name: FIND, crypto: true}
+- model: portfolio.currency
+  pk: 1117
+  fields: {code: PXI, name: Prime-XI, crypto: true}
+- model: portfolio.currency
+  pk: 1118
+  fields: {code: JPC, name: JPC, crypto: true}
+- model: portfolio.currency
+  pk: 1119
+  fields: {code: DAR, name: DAR, crypto: true}
+- model: portfolio.currency
+  pk: 1120
+  fields: {code: PXL, name: PXL, crypto: true}
+- model: portfolio.currency
+  pk: 1121
+  fields: {code: TCASH, name: TCASH, crypto: true}
+- model: portfolio.currency
+  pk: 1122
+  fields: {code: JACK, name: BlackJack, crypto: true}
+- model: portfolio.currency
+  pk: 1123
+  fields: {code: TB, name: TB, crypto: true}
+- model: portfolio.currency
+  pk: 1124
+  fields: {code: TC, name: TC, crypto: true}
+- model: portfolio.currency
+  pk: 1125
+  fields: {code: BOD, name: BOD, crypto: true}
+- model: portfolio.currency
+  pk: 1126
+  fields: {code: CNT, name: CNT, crypto: true}
+- model: portfolio.currency
+  pk: 1127
+  fields: {code: CUBE, name: DigiCube, crypto: true}
+- model: portfolio.currency
+  pk: 1128
+  fields: {code: TRON, name: TRON, crypto: true}
+- model: portfolio.currency
+  pk: 1129
+  fields: {code: KLC, name: KLC, crypto: true}
+- model: portfolio.currency
+  pk: 1130
+  fields: {code: FIRE, name: FIRE, crypto: true}
+- model: portfolio.currency
+  pk: 1131
+  fields: {code: WISC, name: WISC, crypto: true}
+- model: portfolio.currency
+  pk: 1132
+  fields: {code: AL, name: AL, crypto: true}
+- model: portfolio.currency
+  pk: 1133
+  fields: {code: START, name: Startcoin, crypto: true}
+- model: portfolio.currency
+  pk: 1134
+  fields: {code: TNG, name: TNG, crypto: true}
+- model: portfolio.currency
+  pk: 1135
+  fields: {code: ESC, name: ESC, crypto: true}
+- model: portfolio.currency
+  pk: 1136
+  fields: {code: CNC, name: CNC, crypto: true}
+- model: portfolio.currency
+  pk: 1137
+  fields: {code: AV, name: AV, crypto: true}
+- model: portfolio.currency
+  pk: 1138
+  fields: {code: LIZI, name: LIZI, crypto: true}
+- model: portfolio.currency
+  pk: 1139
+  fields: {code: CD, name: CD, crypto: true}
+- model: portfolio.currency
+  pk: 1140
+  fields: {code: ETHS, name: ETHS, crypto: true}
+- model: portfolio.currency
+  pk: 1141
+  fields: {code: WAV, name: WAV, crypto: true}
+- model: portfolio.currency
+  pk: 1142
+  fields: {code: RYCN, name: RYCN, crypto: true}
+- model: portfolio.currency
+  pk: 1143
+  fields: {code: NKA, name: NKA, crypto: true}
+- model: portfolio.currency
+  pk: 1144
+  fields: {code: ZCC, name: ZCC, crypto: true}
+- model: portfolio.currency
+  pk: 1145
+  fields: {code: ZCL, name: Zcash classic, crypto: true}
+- model: portfolio.currency
+  pk: 1146
+  fields: {code: DXC, name: DXC, crypto: true}
+- model: portfolio.currency
+  pk: 1147
+  fields: {code: NOTE, name: DNotes, crypto: true}
+- model: portfolio.currency
+  pk: 1148
+  fields: {code: KGC, name: KGC, crypto: true}
+- model: portfolio.currency
+  pk: 1149
+  fields: {code: EURC, name: EURC, crypto: true}
+- model: portfolio.currency
+  pk: 1150
+  fields: {code: TAKE, name: TAKE, crypto: true}
+- model: portfolio.currency
+  pk: 1151
+  fields: {code: FAZZ, name: FAZZ, crypto: true}
+- model: portfolio.currency
+  pk: 1152
+  fields: {code: INCNT, name: INCNT, crypto: true}
+- model: portfolio.currency
+  pk: 1153
+  fields: {code: VSL, name: VSL, crypto: true}
+- model: portfolio.currency
+  pk: 1154
+  fields: {code: XAUR, name: XAUR, crypto: true}
+- model: portfolio.currency
+  pk: 1155
+  fields: {code: SOAR, name: SOAR, crypto: true}
