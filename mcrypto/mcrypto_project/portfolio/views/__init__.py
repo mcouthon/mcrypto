@@ -20,6 +20,7 @@ from .asset_views import (                  # NOQA
 class IndexView(ListView):
     template_name = 'portfolio/index.html'
     context_object_name = 'currency_list'
+    paginate_by = 10
 
     def get_queryset(self):
         return Currency.objects.all()
