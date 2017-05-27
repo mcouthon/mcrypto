@@ -13,6 +13,7 @@ setup(
         'mcrypto.mcrypto_project.portfolio',
         'mcrypto.mcrypto_project.portfolio.migrations',
         'mcrypto.mcrypto_project.portfolio.views',
+        'mcrypto.mcrypto_project.portfolio.urls',
     ],
     description='A cryptocurrency portfolio manager',
     install_requires=[
