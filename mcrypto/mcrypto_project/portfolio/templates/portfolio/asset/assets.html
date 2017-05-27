@@ -5,11 +5,11 @@
       {% for asset in asset_list %}
           <div>
           <h3>
-              {{ asset.name }}
+             <a href="{{ asset.get_absolute_url }}">{{ asset.name }}</a>
           </h3>
           {% for holding in asset.holding_set.all %}
               <p>
-                  <a href="{% url 'portfolio:holding' holding.id %}">{{ holding }}</a>
+                  <a href="{{ holding.get_absolute_url }}">{{ holding }}</a>
               </p>
           {% endfor %}
           </div>

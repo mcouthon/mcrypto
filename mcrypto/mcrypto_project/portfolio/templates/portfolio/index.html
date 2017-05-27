@@ -4,7 +4,7 @@
   {% if currency_list %}
       <ul>
       {% for currency in currency_list %}
-          <li><a href="{% url 'portfolio:currency' currency.id %}">{{ currency }}</a></li>
+          <li><a href="{{ currency.get_absolute_url }}">{{ currency }}</a></li>
       {% endfor %}
       </ul>
   {% else %}
