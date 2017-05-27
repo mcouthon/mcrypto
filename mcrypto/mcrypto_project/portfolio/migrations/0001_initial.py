@@ -15,20 +15,12 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.CreateModel(
-            name='Amount',
-            fields=[
-                ('id', models.AutoField(auto_created=True, primary_key=True,
-                                        serialize=False, verbose_name='ID')),
-                ('amount', models.FloatField(default=0.0)),
-            ],
-        ),
-        migrations.CreateModel(
             name='Asset',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True,
                                         serialize=False, verbose_name='ID')),
-                ('code', models.CharField(max_length=20, unique=True)),
-                ('name', models.CharField(max_length=200)),
+                ('name', models.CharField(max_length=50)),
+                ('description', models.CharField(max_length=200)),
             ],
         ),
         migrations.CreateModel(
@@ -60,19 +52,13 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True,
                                         serialize=False, verbose_name='ID')),
-                ('amount', models.ForeignKey(
-                    on_delete=django.db.models.deletion.CASCADE,
-                    to='portfolio.Amount')),
+                ('amount', models.FloatField(default=0.0)),
                 ('asset', models.ForeignKey(
                     on_delete=django.db.models.deletion.CASCADE,
                     to='portfolio.Asset')),
+                ('coin', models.ForeignKey(
+                    on_delete=django.db.models.deletion.CASCADE,
+                    to='portfolio.Currency')),
             ],
-        ),
-        migrations.AddField(
-            model_name='amount',
-            name='coin',
-            field=models.ForeignKey(
-                on_delete=django.db.models.deletion.CASCADE,
-                to='portfolio.Currency'),
         ),
     ]
