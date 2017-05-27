@@ -1,9 +1,13 @@
-{% if currency_list %}
-    <ul>
-    {% for currency in currency_list %}
-        <li><a href="{% url 'portfolio:currency' currency.id %}">{{ currency }}</a></li>
-    {% endfor %}
-    </ul>
-{% else %}
-    <p>No currencies are available.</p>
-{% endif %}
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+  {% if currency_list %}
+      <ul>
+      {% for currency in currency_list %}
+          <li><a href="{% url 'portfolio:currency' currency.id %}">{{ currency }}</a></li>
+      {% endfor %}
+      </ul>
+  {% else %}
+      <p>No currencies are available.</p>
+  {% endif %}
+{% endblock %}

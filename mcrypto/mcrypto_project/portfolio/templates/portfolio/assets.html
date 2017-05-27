@@ -1,0 +1,20 @@
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+  {% if asset_list %}
+      {% for asset in asset_list %}
+          <div>
+          <h3>
+              {{ asset.name }}
+          </h3>
+          {% for holding in asset.holding_set.all %}
+              <p>
+                  <a href="{% url 'portfolio:holding' holding.id %}">{{ holding }}</a>
+              </p>
+          {% endfor %}
+          </div>
+      {% endfor %}
+  {% else %}
+      <p>No assets are available.</p>
+  {% endif %}
+{% endblock %}

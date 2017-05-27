@@ -1,5 +1,11 @@
-<ul>
-{% for holding in asset.holding_set.all %}
-    <li><a href="{% url 'portfolio:holding' holding.id %}">{{ holding }}</a></li>
-{% endfor %}
-</ul>
+{% extends 'portfolio/base.html' %}
+
+{% block content %}
+    <h4> {{ asset.name }} </h4>
+    <h5> {{ asset.description }} </h5>
+    <ul>
+    {% for holding in asset.holding_set.all %}
+        <li><a href="{% url 'portfolio:holding' holding.id %}">{{ holding }}</a></li>
+    {% endfor %}
+    </ul>
+{% endblock %}
