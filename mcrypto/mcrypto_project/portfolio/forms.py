@@ -21,12 +21,6 @@ class AssetForm(ModelForm):
         fields = ['code', 'name']
 
 
-class AmountForm(ModelForm):
-    class Meta:
-        model = models.Amount
-        fields = ['coin', 'amount']
-
-
 class HoldingForm(ModelForm):
     class Meta:
         model = models.Holding
