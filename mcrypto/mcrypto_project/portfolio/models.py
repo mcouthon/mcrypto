@@ -37,8 +37,8 @@ class ExchangeRate(models.Model):
 
 @python_2_unicode_compatible
 class Asset(models.Model):
-    code = models.CharField(max_length=20, unique=True)
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=50)
+    description = models.CharField(max_length=200)
 
     def get_absolute_url(self):
         return reverse('portfolio:asset', kwargs={'pk': self.pk})
@@ -48,24 +48,13 @@ class Asset(models.Model):
 
 
 @python_2_unicode_compatible
-class Amount(models.Model):
-    coin = models.ForeignKey(Currency, on_delete=models.CASCADE)
-    amount = models.FloatField(default=0.0)
-
-    def get_absolute_url(self):
-        return reverse('portfolio:amount', kwargs={'pk': self.pk})
-
-    def __str__(self):
-        return '{0} {1}'.format(self.amount, self.coin.code)
-
-
-@python_2_unicode_compatible
 class Holding(models.Model):
     asset = models.ForeignKey(Asset, on_delete=models.CASCADE)
-    amount = models.ForeignKey(Amount, on_delete=models.CASCADE)
+    coin = models.ForeignKey(Currency, on_delete=models.CASCADE)
+    amount = models.FloatField(default=0.0)
 
     def get_absolute_url(self):
         return reverse('portfolio:holding', kwargs={'pk': self.pk})
 
     def __str__(self):
-        return '{0} [{1}]'.format(self.amount, self.asset)
+        return '{0} {1} [{1}]'.format(self.amount, self.coin.code, self.asset)
