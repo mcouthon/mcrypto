@@ -6,16 +6,16 @@ from ..models import Holding
 
 class HoldingDetail(DetailView):
     model = Holding
-    template_name = 'portfolio/holding.html'
+    template_name = 'portfolio/holding/detail.html'
 
 
 class HoldingUpdate(UpdateView):
     model = Holding
-    template_name_suffix = '_edit'
+    template_name = 'portfolio/holding/holding_edit.html'
     fields = ['asset', 'coin', 'amount']
 
 
 class HoldingCreate(CreateView):
     model = Holding
-    template_name_suffix = '_edit'
+    template_name = 'portfolio/holding/holding_edit.html'
     fields = ['asset', 'coin', 'amount']

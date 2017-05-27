@@ -5,4 +5,4 @@ from ..models import Currency
 
 class CurrencyDetail(DetailView):
     model = Currency
-    template_name = 'portfolio/currency.html'
+    template_name = 'portfolio/currency/detail.html'
