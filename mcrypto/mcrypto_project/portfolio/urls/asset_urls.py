@@ -3,7 +3,7 @@ from django.conf.urls import url
 from ..views import asset_views
 
 
-asset_url_patterns = [
+asset_urlpatterns = [
     # ex: /portfolio/all
     url(
         regex=r'^all/$',

@@ -3,7 +3,7 @@ from django.conf.urls import url
 from ..views import holding_views
 
 
-holding_url_patterns = [
+holding_urlpatterns = [
     # ex: /portfolio/5/holding/
     url(
         regex=r'^(?P<pk>[0-9]+)/holding/$',
