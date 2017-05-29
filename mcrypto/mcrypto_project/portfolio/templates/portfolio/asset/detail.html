@@ -8,4 +8,9 @@
         <li><a href="{{ holding.get_absolute_url }}">{{ holding }}</a></li>
     {% endfor %}
     </ul>
+    <form action="{% url 'portfolio:edit_asset' asset.pk %}" method="GET">
+      {% csrf_token %}
+      <input type="submit" value="Edit">
+    </form>
+
 {% endblock %}

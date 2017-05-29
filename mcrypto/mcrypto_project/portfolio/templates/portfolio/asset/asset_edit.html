@@ -1,9 +1,20 @@
 {% extends 'portfolio/generic/base.html' %}
 
 {% block content %}
+    {% if object %}
+        <h2>Edit {{ object.name }}</h2>
+    {% else %}
+        <h2>Create new asset</h2>
+    {% endif %}
+
   <form action="" method="post">
       {% csrf_token %}
       {{ form.as_p }}
-      <input type="submit" value="Update" />
+
+      {% if object %}
+        <input type="submit" value="Update" />
+      {% else %}
+        <input type="submit" value="Create" />
+      {% endif %}
   </form>
 {% endblock %}

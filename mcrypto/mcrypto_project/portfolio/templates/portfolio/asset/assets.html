@@ -17,4 +17,8 @@
   {% else %}
       <p>No assets are available.</p>
   {% endif %}
+  <form action="{% url 'portfolio:add_asset' %}" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Create a new asset">
+  </form>
 {% endblock %}
