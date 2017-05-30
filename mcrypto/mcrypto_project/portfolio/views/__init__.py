@@ -1,8 +1,5 @@
-from django.views.generic import ListView
+# Importing here to allow importing from `portfolio.views`
 
-from ..models import Currency
-
-# Importing here to make it easier to import from `views`
 from .holding_views import (                # NOQA
     HoldingDetail,
     HoldingUpdate,
@@ -15,12 +12,4 @@ from .asset_views import (                  # NOQA
     AssetUpdate,
     AssetView
 )
-
-
-class IndexView(ListView):
-    template_name = 'portfolio/index.html'
-    context_object_name = 'currency_list'
-    paginate_by = 10
-
-    def get_queryset(self):
-        return Currency.objects.all()
+from .generic_views import IndexView        # NOQA

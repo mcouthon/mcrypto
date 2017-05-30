@@ -3,20 +3,21 @@ from django.views.generic import DetailView, ListView
 from django.views.generic.edit import UpdateView, CreateView
 
 from ..models import Asset
+from .mixins import LoginRequiredMixin
 
 
-class AssetDetail(DetailView):
+class AssetDetail(LoginRequiredMixin, DetailView):
     model = Asset
     template_name = 'portfolio/asset/detail.html'
 
 
-class AssetUpdate(UpdateView):
+class AssetUpdate(LoginRequiredMixin, UpdateView):
     model = Asset
     template_name = 'portfolio/asset/asset_edit.html'
     fields = ['name', 'description']
 
 
-class AssetCreate(CreateView):
+class AssetCreate(LoginRequiredMixin, CreateView):
     model = Asset
     template_name = 'portfolio/asset/asset_edit.html'
     fields = ['name', 'description']
@@ -25,7 +26,7 @@ class AssetCreate(CreateView):
         return reverse('portfolio:asset', kwargs={'pk': self.object.pk})
 
 
-class AssetView(ListView):
+class AssetView(LoginRequiredMixin, ListView):
     template_name = 'portfolio/asset/assets.html'
     context_object_name = 'asset_list'
 
