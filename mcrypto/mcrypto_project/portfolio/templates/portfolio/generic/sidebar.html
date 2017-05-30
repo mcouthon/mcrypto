@@ -4,6 +4,10 @@
       <li><a href="{% url 'portfolio:assets' %}">Assets</a></li>
       <li><a href="{% url 'portfolio:core' %}">Core</a></li>
       <li class="nav-divider"></li>
-      <li><a href="{% url 'portfolio:logout' %}">Logout</a></li>
+      {% if user.is_authenticated %}
+        <li><a href="{% url 'portfolio:logout' %}">Logout</a></li>
+      {% else %}
+        <li><a href="{% url 'portfolio:login' %}">Login</a></li>
+      {% endif %}
     </ul>
 </nav>
