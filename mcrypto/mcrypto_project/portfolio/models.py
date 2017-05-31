@@ -17,7 +17,7 @@ class Currency(models.Model):
 
     def __str__(self):
         crypto = ' [crypto]' if self.crypto else ''
-        return '{0} - {1}{2}'.format(self.code, self.name, crypto)
+        return '{0} ({1}){2}'.format(self.name, self.code, crypto)
 
 
 @python_2_unicode_compatible
@@ -29,7 +29,7 @@ class ExchangeRate(models.Model):
     rate = models.FloatField(default=0.0)
 
     def get_absolute_url(self):
-        return reverse('portfolio:exchange', kwargs={'pk': self.pk})
+        return reverse('portfolio:exchange_rate', kwargs={'pk': self.pk})
 
     def __str__(self):
         return '{0} --> {1} [{2}]'.format(self.base, self.target, self.rate)

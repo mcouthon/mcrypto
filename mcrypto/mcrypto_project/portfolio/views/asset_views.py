@@ -27,6 +27,7 @@ class AssetCreate(LoginRequiredMixin, CreateView):
 
 
 class AssetView(LoginRequiredMixin, ListView):
+    model = Asset
     template_name = 'portfolio/asset/assets.html'
     context_object_name = 'asset_list'
 

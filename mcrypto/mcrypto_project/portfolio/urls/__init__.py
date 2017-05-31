@@ -1,12 +1,10 @@
-from django.conf.urls import url
-
-from .. import views
-
 from .api_urls import api_urlpatterns
 from .user_urls import user_urlpatterns
 from .asset_urls import asset_urlpatterns
+from .generic_urls import generic_urlpatterns
 from .holding_urls import holding_urlpatterns
 from .currency_urls import currency_urlpatterns
+from .exchange_urls import exchange_urlpatterns
 
 
 app_name = 'portfolio'
@@ -16,12 +14,6 @@ urlpatterns = (
     currency_urlpatterns +
     user_urlpatterns +
     api_urlpatterns +
-    [
-        # ex: /portfolio/
-        url(
-            regex=r'^$',
-            view=views.IndexView.as_view(),
-            name='index'
-        )
-    ]
+    exchange_urlpatterns +
+    generic_urlpatterns
 )

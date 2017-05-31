@@ -22,7 +22,7 @@ class CurrencyUpdateView(BaseUpdateView):
 class ExchangeUpdateView(BaseUpdateView):
     def get_context_data(self, **kwargs):
         context = super(ExchangeUpdateView, self).get_context_data(**kwargs)
-
+        context['update_info'] = apis.update_exchange_rates()
         return context
 
 
@@ -30,5 +30,5 @@ class CryptoExchangeUpdateView(BaseUpdateView):
     def get_context_data(self, **kwargs):
         context = super(CryptoExchangeUpdateView, self).get_context_data(
             **kwargs)
-        context.update(apis.get_exchange_rates())
+        context.update(apis._get_exchange_rates())
         return context

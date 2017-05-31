@@ -4,9 +4,9 @@ from ..views import asset_views
 
 
 asset_urlpatterns = [
-    # ex: /portfolio/all
+    # ex: /portfolio/assets
     url(
-        regex=r'^all/$',
+        regex=r'^assets/$',
         view=asset_views.AssetView.as_view(),
         name='assets'
     ),

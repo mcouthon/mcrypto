@@ -2,6 +2,7 @@ import requests
 
 from .constants import BTC
 from .exceptions import APIError
+from .models import ExchangeRate, Currency
 
 CRYPTO_API_URL = 'https://api.cryptonator.com/api/ticker/{base}-{target}'
 EXCHANGE_API_URL = 'http://api.fixer.io/latest?base=USD'
@@ -14,15 +15,32 @@ def get_btc_balance(base):
         result = requests.get(url).json()
         return float(result['ticker']['price'])
     except requests.RequestException as e:
-        raise APIError('Could not get {1} price for {0}: {2}'.format(base,
-                                                                     BTC, e))
+        raise APIError('Could not get {1} price for {0}: {2}'.format(base, BTC, e))
 
 
-def get_exchange_rates():
+def _get_exchange_rates():
     try:
         return requests.get(EXCHANGE_API_URL).json()
     except requests.RequestException as e:
-        raise APIError('Could not get exchange rates: {0}'.format(e))
+        raise APIError(e)
+
+
+def update_exchange_rates():
+    try:
+        exchange_rates = _get_exchange_rates()
+    except APIError as e:
+        return 'Could not get exchange rates: {0}'.format(e)
+
+    base = Currency.objects.get(code=exchange_rates['base'])
+    for target_code, rate in exchange_rates['rates'].items():
+        target = Currency.objects.get(code=target_code)
+        exchange_rate = ExchangeRate(base=base, target=target,
+                                     rate=float(rate))
+        exchange_rate.save()
+    return 'Updated {0} rates [{1}]'.format(
+        len(exchange_rates['rates']),
+        exchange_rates['date']
+    )
 
 
 def get_currencies():

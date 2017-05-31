@@ -1,12 +1,13 @@
 from django.conf.urls import url
 
-from .. import views
+from ..views import currency_views
+
 
 currency_urlpatterns = [
-    # ex: /portfolio/usd/currency/
+    # ex: /portfolio/5/currency/
     url(
         regex=r'^(?P<pk>\w+)/currency/$',
-        view=views.CurrencyDetail.as_view(),
+        view=currency_views.CurrencyDetail.as_view(),
         name='currency'
     ),
 ]

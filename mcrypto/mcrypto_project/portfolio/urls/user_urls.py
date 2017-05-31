@@ -2,6 +2,7 @@ from django.conf.urls import url
 from django.contrib import admin
 from django.contrib.auth import views as auth_views
 
+
 user_urlpatterns = [
     url(r'^login/$', auth_views.login,
         kwargs={'template_name': 'portfolio/users/login.html'}, name='login'),

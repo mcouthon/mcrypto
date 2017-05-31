@@ -1,0 +1,30 @@
+{% extends 'portfolio/generic/base.html' %}
+
+{% block content %}
+  {% if exchange_rate_list %}
+    <h3 style="color:#556983">Exchange rates</h3>
+    <h5 style="color:#556983">All rates are in {{ base }} </h5>
+    <table class="table-fill">
+      <thead>
+        <tr>
+          <th class="text-left">Target</th>
+          <th class="text-left">Rate</th>
+        </tr>
+      </thead>
+      <tbody class="table-hover">
+        {% for exchange_rate in exchange_rate_list %}
+          <tr>
+            <td class="text-left">
+              <a href="{% url 'portfolio:exchange_rate' exchange_rate.pk %}">
+                {{ exchange_rate.target }}
+              </a>
+            </td>
+            <td class="text-left">{{ exchange_rate.rate }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+      <p>No exchange rates are available.</p>
+  {% endif %}
+{% endblock %}
