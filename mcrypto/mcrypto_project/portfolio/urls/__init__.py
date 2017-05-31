@@ -2,6 +2,7 @@ from django.conf.urls import url
 
 from .. import views
 
+from .api_urls import api_urlpatterns
 from .user_urls import user_urlpatterns
 from .asset_urls import asset_urlpatterns
 from .holding_urls import holding_urlpatterns
@@ -14,6 +15,7 @@ urlpatterns = (
     asset_urlpatterns +
     currency_urlpatterns +
     user_urlpatterns +
+    api_urlpatterns +
     [
         # ex: /portfolio/
         url(

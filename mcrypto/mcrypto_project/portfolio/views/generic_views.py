@@ -1,14 +1,7 @@
-from django.views.generic import ListView
+from django.views.generic import TemplateView
 
-
-from ..models import Currency
 from .mixins import LoginRequiredMixin
 
 
-class IndexView(LoginRequiredMixin, ListView):
+class IndexView(LoginRequiredMixin, TemplateView):
     template_name = 'portfolio/index.html'
-    context_object_name = 'currency_list'
-    paginate_by = 10
-
-    def get_queryset(self):
-        return Currency.objects.all()

@@ -1,0 +1,2 @@
+BTC = 'btc'
+USD = 'usd'

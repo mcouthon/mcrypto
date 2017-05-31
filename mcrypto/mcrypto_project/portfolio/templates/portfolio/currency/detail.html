@@ -4,10 +4,4 @@
   <p>
     {{ currency }}
   </p>
-  <p>
-    <form action="{% url 'portfolio:core' %}" method="post">
-      {% csrf_token %}
-      <input type="submit">
-    </form>
-  </p>
 {% endblock %}

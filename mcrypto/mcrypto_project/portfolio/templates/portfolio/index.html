@@ -1,13 +1,31 @@
 {% extends 'portfolio/generic/base.html' %}
 
 {% block content %}
-  {% if currency_list %}
-      <ul>
-      {% for currency in currency_list %}
-          <li><a href="{{ currency.get_absolute_url }}">{{ currency }}</a></li>
-      {% endfor %}
-      </ul>
-  {% else %}
-      <p>No currencies are available.</p>
-  {% endif %}
+  <div>
+    <div class="row">
+      <div class="col-sm-4" align="center">
+        <form action="{% url 'portfolio:update_currencies' %}" method="POST">
+          {% csrf_token %}
+          <input type="submit" value="Update Currencies">
+        </form>
+      </div>
+      <div class="col-sm-4" align="center">
+        <form action="{% url 'portfolio:update_exchange_rate' %}" method="POST">
+          {% csrf_token %}
+          <input type="submit" value="Update Exchange Rates">
+        </form>
+      </div>
+      <div class="col-sm-4" align="center">
+        <form action="{% url 'portfolio:update_crypto_exchange_rate' %}" method="POST">
+          {% csrf_token %}
+          <input type="submit" value="Update Crypto Exchange Rates">
+        </form>
+      </div>
+    </div>
+    {% if update_info %}
+      <div class="row">
+        <h5 style="color:#566787" align="center">{{ update_info }}</h5>
+      </div>
+    {% endif %}
+  </div>
 {% endblock %}

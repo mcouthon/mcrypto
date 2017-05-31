@@ -18,5 +18,6 @@ setup(
     description='A cryptocurrency portfolio manager',
     install_requires=[
         'Django>=1.11.1',
+        'requests>=2.17.3'
     ],
 )
